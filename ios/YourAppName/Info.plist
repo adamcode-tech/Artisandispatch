@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Autres configurations existantes -->
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Nous avons besoin de votre position pour afficher les coachs près de chez vous</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Cette application nécessite l'accès à la localisation pour afficher les coachs à proximité.</string>
+    <key>io.flutter.embedded_views_preview</key>
+    <true/>
+    <key>GoogleMapsApiKey</key>
+    <string>AIzaSyCOb94Dftq8IkFGeYZi2F0Aj2C5LcCxMCA</string>
+</dict>
+</plist> 

@@ -1,0 +1,11 @@
+import { View, Text } from 'react-native';
+
+const ProfileScreen: React.FC = () => {
+  return (
+    <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
+      <Text>Profil</Text>
+    </View>
+  );
+};
+
+export default ProfileScreen; 

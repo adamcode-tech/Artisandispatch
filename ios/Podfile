@@ -1,0 +1,8 @@
+target 'leaf' do
+  # ... autres configurations
+  
+  # Ajoutez cette ligne
+  pod 'Google-Maps-iOS-Utils'
+  
+  # ... reste du fichier
+end
