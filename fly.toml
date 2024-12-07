@@ -1,13 +1,27 @@
+<<<<<<< HEAD
 # fly.toml app configuration file generated for leafff on 2024-12-05T21:23:26+01:00
+=======
+# fly.toml app configuration file generated for project-cold-dawn-6942 on 2024-12-06T14:30:52+01:00
+>>>>>>> c29403029187af57c036bd2455cdf630de30721c
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
+<<<<<<< HEAD
 app = 'leafff'
 primary_region = 'cdg'
 
 [http_service]
   internal_port = 8080
+=======
+app = 'project-cold-dawn-6942'
+primary_region = 'cdg'
+
+[build]
+
+[http_service]
+  internal_port = 80
+>>>>>>> c29403029187af57c036bd2455cdf630de30721c
   force_https = true
   auto_stop_machines = 'stop'
   auto_start_machines = true

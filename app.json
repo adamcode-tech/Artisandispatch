@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "YourAppName",
+    "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCOb94Dftq8IkFGeYZi2F0Aj2C5LcCxMCA"
+        }
+      }
+    },
+    "ios": {
+      "config": {
+        "googleMapsApiKey": "AIzaSyCOb94Dftq8IkFGeYZi2F0Aj2C5LcCxMCA"
+      }
+    }
+  }
+} 
