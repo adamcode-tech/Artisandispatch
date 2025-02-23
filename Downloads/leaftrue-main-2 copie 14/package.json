@@ -1,0 +1,10 @@
+{
+  "resolutions": {
+    "@mediapipe/pose": "0.5.1675469404"
+  },
+  "dependencies": {
+    "@types/recharts": "^2.0.0",
+    "recharts": "^2.15.1",
+    "date-fns": "^2.30.0"
+  }
+}
