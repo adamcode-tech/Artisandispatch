@@ -83,11 +83,9 @@ struct SmartcoachIOS: App {
                     }
                 }
                 
-                // Initialisation des données
-                workoutManager.loadWorkouts()
-                nutritionManager.loadMeals()
-                nutritionManager.loadMealPlans()
-                coachManager.loadCoaches()
+                // Initialisation des données - les managers chargent déjà leurs données dans leur init()
+                // Pas besoin d'appeler des méthodes supplémentaires car elles sont déjà appelées
+                // dans les constructeurs des managers respectifs
             }
         }
     }
