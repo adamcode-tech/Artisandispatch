@@ -8,13 +8,46 @@ struct HomeView: View {
     var body: some View {
         NavigationView {
             ScrollView {
-                VStack(spacing: 20) {
+                VStack(spacing: 24) {
+                    // En-tête avec statistiques
+                    ZStack(alignment: .bottom) {
+                        // Bannière avec image de fond
+                        Rectangle()
+                            .fill(Color("PrimaryColor").gradient)
+                            .frame(height: 160)
+                            .clipShape(RoundedRectangle(cornerRadius: 16))
+                            .overlay(
+                                Image(systemName: "figure.run")
+                                    .resizable()
+                                    .scaledToFit()
+                                    .frame(width: 100)
+                                    .foregroundColor(Color.white.opacity(0.2))
+                                    .offset(x: 120)
+                            )
+                        
+                        // Texte de bienvenue
+                        VStack(alignment: .leading, spacing: 4) {
+                            Text("Bonjour !")
+                                .font(.title)
+                                .fontWeight(.bold)
+                                .foregroundColor(.white)
+                            
+                            Text("Prêt à vous dépasser aujourd'hui ?")
+                                .font(.subheadline)
+                                .foregroundColor(.white.opacity(0.9))
+                        }
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .padding(.horizontal, 20)
+                        .padding(.vertical, 16)
+                    }
+                    .padding(.horizontal)
+                    
                     // Résumé des statistiques
                     LazyVGrid(columns: [
                         GridItem(.flexible()),
                         GridItem(.flexible()),
                         GridItem(.flexible())
-                    ], spacing: 15) {
+                    ], spacing: 16) {
                         StatCard(
                             icon: "flame.fill",
                             title: "Calories",
@@ -28,7 +61,7 @@ struct HomeView: View {
                             title: "Activité",
                             value: "45",
                             unit: "min",
-                            color: .green
+                            color: Color("GreenAccent")
                         )
                         
                         StatCard(
@@ -42,6 +75,13 @@ struct HomeView: View {
                     .padding(.horizontal)
                     
                     // Prochaine séance
+                    Text("Votre programme fitness")
+                        .font(.headline)
+                        .fontWeight(.bold)
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .padding(.horizontal)
+                        .padding(.top, 8)
+                    
                     if let nextWorkout = workoutManager.workouts.first {
                         NavigationLink(destination: WorkoutDetailView(workout: nextWorkout)) {
                             NextWorkoutCard(workout: nextWorkout)
@@ -49,6 +89,13 @@ struct HomeView: View {
                     }
                     
                     // Coach recommandé
+                    Text("Coach recommandé")
+                        .font(.headline)
+                        .fontWeight(.bold)
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .padding(.horizontal)
+                        .padding(.top, 8)
+                    
                     if let recommendedCoach = coachManager.coaches.first {
                         NavigationLink(destination: CoachDetailView(coach: recommendedCoach)) {
                             RecommendedCoachCard(coach: recommendedCoach)
@@ -57,6 +104,7 @@ struct HomeView: View {
                 }
                 .padding(.vertical)
             }
+            .background(Color("BackgroundColor").edgesIgnoringSafeArea(.all))
             .navigationTitle("Tableau de bord")
         }
     }
@@ -72,7 +120,7 @@ struct StatCard: View {
     var body: some View {
         VStack(spacing: 8) {
             Image(systemName: icon)
-                .font(.title)
+                .font(.title2)
                 .foregroundColor(color)
             
             Text(title)
@@ -82,6 +130,7 @@ struct StatCard: View {
             HStack(alignment: .firstTextBaseline, spacing: 2) {
                 Text(value)
                     .font(.headline)
+                    .fontWeight(.bold)
                 Text(unit)
                     .font(.caption)
                     .foregroundColor(.secondary)
@@ -89,8 +138,9 @@ struct StatCard: View {
         }
         .frame(maxWidth: .infinity)
         .padding()
-        .background(Color(.systemGray6))
-        .cornerRadius(10)
+        .background(Color.white)
+        .cornerRadius(12)
+        .shadow(color: Color.black.opacity(0.05), radius: 5, x: 0, y: 2)
     }
 }
 
@@ -99,10 +149,6 @@ struct NextWorkoutCard: View {
     
     var body: some View {
         VStack(alignment: .leading, spacing: 12) {
-            Text("Prochaine séance")
-                .font(.headline)
-                .foregroundColor(.secondary)
-            
             HStack {
                 VStack(alignment: .leading, spacing: 8) {
                     Text(workout.name)
@@ -116,14 +162,60 @@ struct NextWorkoutCard: View {
                 
                 Spacer()
                 
-                Image(systemName: "chevron.right")
-                    .foregroundColor(.secondary)
+                // Badge difficulté
+                Text(workout.difficulty.rawValue)
+                    .font(.caption)
+                    .padding(.horizontal, 10)
+                    .padding(.vertical, 5)
+                    .background(difficultyColor(workout.difficulty).opacity(0.1))
+                    .foregroundColor(difficultyColor(workout.difficulty))
+                    .cornerRadius(8)
+            }
+            
+            Divider()
+            
+            HStack {
+                // Icônes montrant les groupes musculaires ciblés
+                ForEach(workout.targetMuscles.prefix(3), id: \.self) { muscle in
+                    Text(muscle.rawValue)
+                        .font(.caption)
+                        .padding(.horizontal, 8)
+                        .padding(.vertical, 4)
+                        .background(Color("PrimaryColor").opacity(0.1))
+                        .foregroundColor(Color("PrimaryColor"))
+                        .cornerRadius(8)
+                }
+                
+                Spacer()
+                
+                // Bouton pour commencer
+                Text("Commencer")
+                    .font(.footnote)
+                    .fontWeight(.semibold)
+                    .foregroundColor(Color.white)
+                    .padding(.horizontal, 12)
+                    .padding(.vertical, 8)
+                    .background(Color("PrimaryColor"))
+                    .cornerRadius(8)
             }
         }
         .padding()
-        .background(Color(.systemGray6))
-        .cornerRadius(10)
+        .background(Color.white)
+        .cornerRadius(12)
+        .shadow(color: Color.black.opacity(0.05), radius: 5, x: 0, y: 2)
         .padding(.horizontal)
+    }
+    
+    // Couleur selon la difficulté
+    func difficultyColor(_ difficulty: WorkoutDifficulty) -> Color {
+        switch difficulty {
+        case .beginner:
+            return Color("GreenAccent")
+        case .intermediate:
+            return Color.orange
+        case .advanced:
+            return Color.red
+        }
     }
 }
 
@@ -131,50 +223,74 @@ struct RecommendedCoachCard: View {
     let coach: Coach
     
     var body: some View {
-        VStack(alignment: .leading, spacing: 12) {
-            Text("Coach recommandé")
-                .font(.headline)
-                .foregroundColor(.secondary)
-            
-            HStack(spacing: 12) {
-                if let imageUrl = coach.profileImage {
-                    AsyncImage(url: imageUrl) { image in
-                        image
-                            .resizable()
-                            .aspectRatio(contentMode: .fill)
-                    } placeholder: {
-                        Image(systemName: "person.circle.fill")
-                            .resizable()
-                            .foregroundColor(.gray)
-                    }
-                    .frame(width: 60, height: 60)
-                    .clipShape(Circle())
-                } else {
+        HStack(spacing: 16) {
+            if let imageUrl = coach.profileImage {
+                AsyncImage(url: imageUrl) { image in
+                    image
+                        .resizable()
+                        .aspectRatio(contentMode: .fill)
+                } placeholder: {
                     Image(systemName: "person.circle.fill")
                         .resizable()
-                        .frame(width: 60, height: 60)
-                        .foregroundColor(.gray)
+                        .foregroundColor(Color("SecondaryColor").opacity(0.2))
                 }
+                .frame(width: 70, height: 70)
+                .clipShape(Circle())
+                .overlay(
+                    Circle()
+                        .stroke(Color("PrimaryColor"), lineWidth: 2)
+                )
+            } else {
+                Image(systemName: "person.circle.fill")
+                    .resizable()
+                    .frame(width: 70, height: 70)
+                    .foregroundColor(Color("SecondaryColor").opacity(0.2))
+                    .overlay(
+                        Circle()
+                            .stroke(Color("PrimaryColor"), lineWidth: 2)
+                    )
+            }
+            
+            VStack(alignment: .leading, spacing: 6) {
+                Text(coach.name)
+                    .font(.title3)
+                    .fontWeight(.bold)
                 
-                VStack(alignment: .leading, spacing: 4) {
-                    Text(coach.name)
-                        .font(.title3)
-                        .fontWeight(.bold)
-                    
-                    Text(coach.specialties.prefix(2).joined(separator: " • "))
-                        .font(.subheadline)
+                // Affichage des étoiles
+                HStack(spacing: 4) {
+                    ForEach(0..<5) { index in
+                        Image(systemName: index < 4 ? "star.fill" : "star")
+                            .foregroundColor(.yellow)
+                            .font(.caption)
+                    }
+                    Text("4.0")
+                        .font(.caption)
                         .foregroundColor(.secondary)
                 }
                 
-                Spacer()
-                
-                Image(systemName: "chevron.right")
+                Text(coach.specialties.prefix(2).joined(separator: " • "))
+                    .font(.caption)
                     .foregroundColor(.secondary)
+            }
+            
+            Spacer()
+            
+            // Bouton réserver
+            VStack {
+                Text("Réserver")
+                    .font(.footnote)
+                    .fontWeight(.semibold)
+                    .foregroundColor(Color.white)
+                    .padding(.horizontal, 12)
+                    .padding(.vertical, 8)
+                    .background(Color("GreenAccent"))
+                    .cornerRadius(8)
             }
         }
         .padding()
-        .background(Color(.systemGray6))
-        .cornerRadius(10)
+        .background(Color.white)
+        .cornerRadius(12)
+        .shadow(color: Color.black.opacity(0.05), radius: 5, x: 0, y: 2)
         .padding(.horizontal)
     }
 }
