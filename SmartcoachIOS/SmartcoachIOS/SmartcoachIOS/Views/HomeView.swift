@@ -13,7 +13,7 @@ struct HomeView: View {
                     ZStack(alignment: .bottom) {
                         // Bannière avec image de fond
                         Rectangle()
-                            .fill(Color("PrimaryColor").gradient)
+                            .fill(Color("MainBlueColor").gradient)
                             .frame(height: 160)
                             .clipShape(RoundedRectangle(cornerRadius: 16))
                             .overlay(
@@ -155,7 +155,7 @@ struct NextWorkoutCard: View {
                         .font(.title3)
                         .fontWeight(.bold)
                     
-                    Text("\(workout.duration) min • \(workout.difficulty.rawValue)")
+                    Text("\(workout.duration ?? 0) min • \(workout.difficulty ?? "Normal")")
                         .font(.subheadline)
                         .foregroundColor(.secondary)
                 }
@@ -163,12 +163,12 @@ struct NextWorkoutCard: View {
                 Spacer()
                 
                 // Badge difficulté
-                Text(workout.difficulty.rawValue)
+                Text(workout.difficulty ?? "Normal")
                     .font(.caption)
                     .padding(.horizontal, 10)
                     .padding(.vertical, 5)
-                    .background(difficultyColor(workout.difficulty).opacity(0.1))
-                    .foregroundColor(difficultyColor(workout.difficulty))
+                    .background(difficultyColor(workout.difficulty ?? "Normal").opacity(0.1))
+                    .foregroundColor(difficultyColor(workout.difficulty ?? "Normal"))
                     .cornerRadius(8)
             }
             
@@ -176,13 +176,13 @@ struct NextWorkoutCard: View {
             
             HStack {
                 // Icônes montrant les groupes musculaires ciblés
-                ForEach(workout.targetMuscles.prefix(3), id: \.self) { muscle in
-                    Text(muscle.rawValue)
+                ForEach(Array(workout.targetMuscles.prefix(3)), id: \.self) { muscle in
+                    Text(muscle)
                         .font(.caption)
                         .padding(.horizontal, 8)
                         .padding(.vertical, 4)
-                        .background(Color("PrimaryColor").opacity(0.1))
-                        .foregroundColor(Color("PrimaryColor"))
+                        .background(Color("MainBlueColor").opacity(0.1))
+                        .foregroundColor(Color("MainBlueColor"))
                         .cornerRadius(8)
                 }
                 
@@ -195,7 +195,7 @@ struct NextWorkoutCard: View {
                     .foregroundColor(Color.white)
                     .padding(.horizontal, 12)
                     .padding(.vertical, 8)
-                    .background(Color("PrimaryColor"))
+                    .background(Color("MainBlueColor"))
                     .cornerRadius(8)
             }
         }
@@ -207,14 +207,16 @@ struct NextWorkoutCard: View {
     }
     
     // Couleur selon la difficulté
-    func difficultyColor(_ difficulty: WorkoutDifficulty) -> Color {
-        switch difficulty {
-        case .beginner:
+    func difficultyColor(_ difficulty: String) -> Color {
+        switch difficulty.lowercased() {
+        case "débutant", "beginner", "easy":
             return Color("GreenAccent")
-        case .intermediate:
+        case "intermédiaire", "intermediate", "medium":
             return Color.orange
-        case .advanced:
+        case "avancé", "advanced", "hard":
             return Color.red
+        default:
+            return Color.gray
         }
     }
 }
@@ -232,22 +234,22 @@ struct RecommendedCoachCard: View {
                 } placeholder: {
                     Image(systemName: "person.circle.fill")
                         .resizable()
-                        .foregroundColor(Color("SecondaryColor").opacity(0.2))
+                        .foregroundColor(Color("CustomSecondaryColor").opacity(0.2))
                 }
                 .frame(width: 70, height: 70)
                 .clipShape(Circle())
                 .overlay(
                     Circle()
-                        .stroke(Color("PrimaryColor"), lineWidth: 2)
+                        .stroke(Color("MainBlueColor"), lineWidth: 2)
                 )
             } else {
                 Image(systemName: "person.circle.fill")
                     .resizable()
                     .frame(width: 70, height: 70)
-                    .foregroundColor(Color("SecondaryColor").opacity(0.2))
+                    .foregroundColor(Color("CustomSecondaryColor").opacity(0.2))
                     .overlay(
                         Circle()
-                            .stroke(Color("PrimaryColor"), lineWidth: 2)
+                            .stroke(Color("MainBlueColor"), lineWidth: 2)
                     )
             }
             
