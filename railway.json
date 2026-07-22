@@ -7,7 +7,6 @@
   "deploy": {
     "numReplicas": 1,
     "startCommand": "cd \"entrainement machine learning\" && python 09_BERT_BTP_NER_FineTuning_FIXED.py",
-    "restartPolicyType": "no",
-    "restartPolicyMaxRetries": 0
+    "restartPolicyType": "NEVER"
   }
 }
