@@ -1,0 +1,7330 @@
+{
+  "data": [
+    {
+      "text": "démolition 410m2 en zinc, incluant traitement humidité, budget 45000€, équipe 6 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Zinc",
+        "SURFACE": "410m2",
+        "ACTIVITE_SPECIALE": "Traitement Humidité",
+        "BUDGET": "45000€",
+        "NB_OUVRIERS": "6 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "béton : 110 m2 en gypse, coût estimé 20000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "MATERIAU": "Gypse",
+        "SURFACE": "110 m2",
+        "BUDGET": "20000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "charpente 190 m2 plâtre, étanchéité, budget 55000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Plâtre",
+        "SURFACE": "190 m2",
+        "ACTIVITE_SPECIALE": "Étanchéité",
+        "BUDGET": "55000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "démolition 80m² cuivre",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "80m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "menuiserie 490 m² brique",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Brique",
+        "SURFACE": "490 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "plomberie 430m2 ardoise, équipe de équipe de 3",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "430m2",
+        "NB_OUVRIERS": "équipe de 3"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "escalier 30 m² pvc, équipe de 5 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "MATERIAU": "Pvc",
+        "SURFACE": "30 m²",
+        "NB_OUVRIERS": "5 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "piscine : 140m² en béton, coût estimé 50000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Béton",
+        "SURFACE": "140m²",
+        "BUDGET": "50000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "escalier 50 m2 pierre, équipe de équipe de 3",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "MATERIAU": "Pierre",
+        "SURFACE": "50 m2",
+        "NB_OUVRIERS": "équipe de 3"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "cloison : 450 m² en plâtre, coût estimé 95000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Plâtre",
+        "SURFACE": "450 m²",
+        "BUDGET": "95000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "façade 400 m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Façade",
+        "SURFACE": "400 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "piscine 320 m2 gypse, décontamination, budget 40000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Gypse",
+        "SURFACE": "320 m2",
+        "ACTIVITE_SPECIALE": "Décontamination",
+        "BUDGET": "40000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "inox pour plomberie (330 m²), traitement humidité requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Inox",
+        "SURFACE": "330 m²",
+        "ACTIVITE_SPECIALE": "Traitement Humidité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "Nous proposons isolation 310m2, matériau ardoise, avec éclairage led",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "310m2",
+        "ACTIVITE_SPECIALE": "Éclairage Led"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "piscine 230m2 carrelage, équipe de 3 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "230m2",
+        "NB_OUVRIERS": "3 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "démolition : 230m2 en brique, coût estimé 70000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Brique",
+        "SURFACE": "230m2",
+        "BUDGET": "70000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "maçonnerie 310 m2 béton, équipe de équipe de 5",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "MATERIAU": "Béton",
+        "SURFACE": "310 m2",
+        "NB_OUVRIERS": "équipe de 5"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "électricité 40m2 pvc, étanchéité, budget 65000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "MATERIAU": "Pvc",
+        "SURFACE": "40m2",
+        "ACTIVITE_SPECIALE": "Étanchéité",
+        "BUDGET": "65000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "toiture 150 m² pvc, équipe de 3 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Pvc",
+        "SURFACE": "150 m²",
+        "NB_OUVRIERS": "3 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "plâtre pour menuiserie (330m²), étanchéité requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Plâtre",
+        "SURFACE": "330m²",
+        "ACTIVITE_SPECIALE": "Étanchéité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "Nous proposons gutter 20m2, matériau brique, avec éclairage led",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "MATERIAU": "Brique",
+        "SURFACE": "20m2",
+        "ACTIVITE_SPECIALE": "Éclairage Led"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "menuiserie 180m2 tôle",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Tôle",
+        "SURFACE": "180m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "revêtement 80 m² pierre, traitement humidité, budget 35000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Revêtement",
+        "MATERIAU": "Pierre",
+        "SURFACE": "80 m²",
+        "ACTIVITE_SPECIALE": "Traitement Humidité",
+        "BUDGET": "35000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "maçonnerie 460m2, durée 5 jours ouvrables",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "SURFACE": "460m2",
+        "DUREE_ESTIMEE": "5 Jours Ouvrables"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "électricité 150 m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "SURFACE": "150 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "cloison : 240 m2 en parquet, coût estimé 25000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Parquet",
+        "SURFACE": "240 m2",
+        "BUDGET": "25000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "électricité 180 m², durée 5 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "SURFACE": "180 m²",
+        "DUREE_ESTIMEE": "5 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "Nous proposons menuiserie 460 m², matériau pierre, avec aération",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Pierre",
+        "SURFACE": "460 m²",
+        "ACTIVITE_SPECIALE": "Aération"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "démolition 40 m² fibre de verre",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Fibre De Verre",
+        "SURFACE": "40 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "carrelage 270m² en tuiles, incluant étanchéité, budget 55000€, équipe 4 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "270m²",
+        "ACTIVITE_SPECIALE": "Étanchéité",
+        "BUDGET": "55000€",
+        "NB_OUVRIERS": "4 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "électricité 380m², durée 5 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "SURFACE": "380m²",
+        "DUREE_ESTIMEE": "5 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "chauffage 280 m2 parquet, équipe de petit groupe",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "MATERIAU": "Parquet",
+        "SURFACE": "280 m2",
+        "NB_OUVRIERS": "petit groupe"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "chauffage 470m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "SURFACE": "470m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "escalier 250m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "SURFACE": "250m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "démolition 310m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "SURFACE": "310m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "inox pour cloison (410m2), étanchéité requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Inox",
+        "SURFACE": "410m2",
+        "ACTIVITE_SPECIALE": "Étanchéité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "électricité 40m2 béton poli, équipe de 3 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "40m2",
+        "NB_OUVRIERS": "3 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "peinture 260m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "SURFACE": "260m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "Nous proposons peinture 30m², matériau béton poli, avec étanchéité",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "30m²",
+        "ACTIVITE_SPECIALE": "Étanchéité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "maçonnerie : 370 m² en tuiles, coût estimé 30000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "370 m²",
+        "BUDGET": "30000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "gutter 230m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "SURFACE": "230m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "isolation 430 m2 gypse, décontamination, budget 55000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "MATERIAU": "Gypse",
+        "SURFACE": "430 m2",
+        "ACTIVITE_SPECIALE": "Décontamination",
+        "BUDGET": "55000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "chauffage 30m2 parquet",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "MATERIAU": "Parquet",
+        "SURFACE": "30m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "fenêtres 270 m2 brique, ventilation, budget 50000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "MATERIAU": "Brique",
+        "SURFACE": "270 m2",
+        "ACTIVITE_SPECIALE": "Ventilation",
+        "BUDGET": "50000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "plomberie 470 m², durée 2 semaines",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "SURFACE": "470 m²",
+        "DUREE_ESTIMEE": "2 Semaines"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "façade 170m2 brique",
+      "entities": {
+        "TYPE_TRAVAIL": "Façade",
+        "MATERIAU": "Brique",
+        "SURFACE": "170m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "cloison 350 m2 inox, équipe de 4 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Inox",
+        "SURFACE": "350 m2",
+        "NB_OUVRIERS": "4 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "isolation : 160 m² en gypse, coût estimé 35000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "MATERIAU": "Gypse",
+        "SURFACE": "160 m²",
+        "BUDGET": "35000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "carrelage 410 m2 cuivre, équipe de équipe de 3",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "410 m2",
+        "NB_OUVRIERS": "équipe de 3"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "toiture 460m², étanchéité",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "SURFACE": "460m²",
+        "ACTIVITE_SPECIALE": "Étanchéité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "chauffage 90 m² en gypse, incluant décontamination, budget 30000€, équipe 4 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "MATERIAU": "Gypse",
+        "SURFACE": "90 m²",
+        "ACTIVITE_SPECIALE": "Décontamination",
+        "BUDGET": "30000€",
+        "NB_OUVRIERS": "4 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "béton poli pour électricité (140m²), ventilation requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "140m²",
+        "ACTIVITE_SPECIALE": "Ventilation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "plomberie 480 m² zinc",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Zinc",
+        "SURFACE": "480 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "isolation 110 m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "SURFACE": "110 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "piscine 240m2 en carrelage, incluant traitement humidité, budget 5000€, équipe grande équipe",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "240m2",
+        "ACTIVITE_SPECIALE": "Traitement Humidité",
+        "BUDGET": "5000€",
+        "NB_OUVRIERS": "grande équipe"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "béton : 120 m2 en gypse, coût estimé 10000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "MATERIAU": "Gypse",
+        "SURFACE": "120 m2",
+        "BUDGET": "10000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "fenêtres 100 m2, durée 4 semaines",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "SURFACE": "100 m2",
+        "DUREE_ESTIMEE": "4 Semaines"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "zinc pour démolition (40m2), mise aux normes requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Zinc",
+        "SURFACE": "40m2",
+        "ACTIVITE_SPECIALE": "Mise Aux Normes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "Nous proposons peinture 380m², matériau brique, avec étanchéité",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Brique",
+        "SURFACE": "380m²",
+        "ACTIVITE_SPECIALE": "Étanchéité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "carrelage 250m², durée 2 mois",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "SURFACE": "250m²",
+        "DUREE_ESTIMEE": "2 Mois"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "fenêtres 290 m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "SURFACE": "290 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "charpente 160m² en pierre, incluant étanchéité, budget 70000 euros, équipe 1 personne",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Pierre",
+        "SURFACE": "160m²",
+        "ACTIVITE_SPECIALE": "Étanchéité",
+        "BUDGET": "70000 euros",
+        "NB_OUVRIERS": "1 personne"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "cloison 250 m² cuivre, chauffage, budget 70000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "250 m²",
+        "ACTIVITE_SPECIALE": "Chauffage",
+        "BUDGET": "70000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "toiture 90m² carrelage, équipe de équipe de 3",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "90m²",
+        "NB_OUVRIERS": "équipe de 3"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "isolation 400 m2 en carrelage, incluant décontamination, budget 25000 euros, équipe 6 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "400 m2",
+        "ACTIVITE_SPECIALE": "Décontamination",
+        "BUDGET": "25000 euros",
+        "NB_OUVRIERS": "6 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "carrelage 250m2 en aluminium, incluant traitement humidité, budget 45000 euros, équipe 3 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "MATERIAU": "Aluminium",
+        "SURFACE": "250m2",
+        "ACTIVITE_SPECIALE": "Traitement Humidité",
+        "BUDGET": "45000 euros",
+        "NB_OUVRIERS": "3 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "Nous proposons peinture 90 m2, matériau cuivre, avec étanchéité",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "90 m2",
+        "ACTIVITE_SPECIALE": "Étanchéité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "menuiserie 210 m2 tuiles",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "210 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "ardoise pour escalier (190 m²), chauffage requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "190 m²",
+        "ACTIVITE_SPECIALE": "Chauffage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "toiture 280 m2, éclairage led",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "SURFACE": "280 m2",
+        "ACTIVITE_SPECIALE": "Éclairage Led"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "béton 490 m² zinc, traitement humidité, budget 95000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "MATERIAU": "Zinc",
+        "SURFACE": "490 m²",
+        "ACTIVITE_SPECIALE": "Traitement Humidité",
+        "BUDGET": "95000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "carrelage pour menuiserie (170m²), ventilation requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "170m²",
+        "ACTIVITE_SPECIALE": "Ventilation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "fenêtres 320m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "SURFACE": "320m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "revêtement 120 m2 pvc",
+      "entities": {
+        "TYPE_TRAVAIL": "Revêtement",
+        "MATERIAU": "Pvc",
+        "SURFACE": "120 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "bitume pour toiture (50m²), isolation thermique requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Bitume",
+        "SURFACE": "50m²",
+        "ACTIVITE_SPECIALE": "Isolation Thermique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "charpente 120m2 cuivre, climatisation, budget 40000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "120m2",
+        "ACTIVITE_SPECIALE": "Climatisation",
+        "BUDGET": "40000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "chauffage 200m², durée 3 mois",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "SURFACE": "200m²",
+        "DUREE_ESTIMEE": "3 Mois"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "maçonnerie 60m2 gypse, équipe de grande équipe",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "MATERIAU": "Gypse",
+        "SURFACE": "60m2",
+        "NB_OUVRIERS": "grande équipe"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "façade 160m² ardoise",
+      "entities": {
+        "TYPE_TRAVAIL": "Façade",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "160m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "façade 160 m2, durée 5 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Façade",
+        "SURFACE": "160 m2",
+        "DUREE_ESTIMEE": "5 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "isolation 150 m2 béton, équipe de 1 personne",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "MATERIAU": "Béton",
+        "SURFACE": "150 m2",
+        "NB_OUVRIERS": "1 personne"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "électricité 430 m² carrelage, équipe de équipe de 3",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "430 m²",
+        "NB_OUVRIERS": "équipe de 3"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "escalier 320 m², durée 30 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "SURFACE": "320 m²",
+        "DUREE_ESTIMEE": "30 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "électricité 310 m², durée 3 semaines",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "SURFACE": "310 m²",
+        "DUREE_ESTIMEE": "3 Semaines"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "fenêtres : 50m² en béton, coût estimé 65000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "MATERIAU": "Béton",
+        "SURFACE": "50m²",
+        "BUDGET": "65000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "charpente 160 m2 aluminium",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Aluminium",
+        "SURFACE": "160 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "peinture 150m² en cuivre, incluant ventilation, budget 55000€, équipe 3 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "150m²",
+        "ACTIVITE_SPECIALE": "Ventilation",
+        "BUDGET": "55000€",
+        "NB_OUVRIERS": "3 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "démolition 450m2 en inox, incluant éclairage led, budget 75000 euros, équipe 3 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Inox",
+        "SURFACE": "450m2",
+        "ACTIVITE_SPECIALE": "Éclairage Led",
+        "BUDGET": "75000 euros",
+        "NB_OUVRIERS": "3 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "pvc pour peinture (240m2), chauffage requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Pvc",
+        "SURFACE": "240m2",
+        "ACTIVITE_SPECIALE": "Chauffage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "cloison 390 m², sécurité incendie",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "SURFACE": "390 m²",
+        "ACTIVITE_SPECIALE": "Sécurité Incendie"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "peinture 20 m² en bois, incluant mise aux normes, budget 60000€, équipe 2 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Bois",
+        "SURFACE": "20 m²",
+        "ACTIVITE_SPECIALE": "Mise Aux Normes",
+        "BUDGET": "60000€",
+        "NB_OUVRIERS": "2 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "béton 350 m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "SURFACE": "350 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "escalier 130m², durée 5 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "SURFACE": "130m²",
+        "DUREE_ESTIMEE": "5 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "cuivre pour charpente (140 m2), étanchéité requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "140 m2",
+        "ACTIVITE_SPECIALE": "Étanchéité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "isolation 190 m², chauffage",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "SURFACE": "190 m²",
+        "ACTIVITE_SPECIALE": "Chauffage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "Nous proposons fenêtres 30m², matériau cuivre, avec aération",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "30m²",
+        "ACTIVITE_SPECIALE": "Aération"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "peinture 240 m², durée 30 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "SURFACE": "240 m²",
+        "DUREE_ESTIMEE": "30 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "plomberie 160m2 tuiles, étanchéité, budget 15000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "160m2",
+        "ACTIVITE_SPECIALE": "Étanchéité",
+        "BUDGET": "15000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "béton 100 m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "SURFACE": "100 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "cuivre pour carrelage (70 m2), traitement humidité requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "70 m2",
+        "ACTIVITE_SPECIALE": "Traitement Humidité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "plomberie 40m², durée 1 mois",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "SURFACE": "40m²",
+        "DUREE_ESTIMEE": "1 Mois"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "plomberie 230 m² aluminium, équipe de 5 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Aluminium",
+        "SURFACE": "230 m²",
+        "NB_OUVRIERS": "5 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "excavation 120 m² en béton poli, incluant éclairage led, budget 10000€, équipe 5 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "120 m²",
+        "ACTIVITE_SPECIALE": "Éclairage Led",
+        "BUDGET": "10000€",
+        "NB_OUVRIERS": "5 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "électricité 350 m2 en fibre de verre, incluant éclairage led, budget 95000 euros, équipe 4 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "MATERIAU": "Fibre De Verre",
+        "SURFACE": "350 m2",
+        "ACTIVITE_SPECIALE": "Éclairage Led",
+        "BUDGET": "95000 euros",
+        "NB_OUVRIERS": "4 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "zinc pour piscine (110 m²), traitement humidité requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Zinc",
+        "SURFACE": "110 m²",
+        "ACTIVITE_SPECIALE": "Traitement Humidité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "excavation 250m², durée 4 semaines",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "SURFACE": "250m²",
+        "DUREE_ESTIMEE": "4 Semaines"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "escalier 330 m² en béton, incluant chauffage, budget 60000 euros, équipe 4 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "MATERIAU": "Béton",
+        "SURFACE": "330 m²",
+        "ACTIVITE_SPECIALE": "Chauffage",
+        "BUDGET": "60000 euros",
+        "NB_OUVRIERS": "4 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "fenêtres : 430m2 en cuivre, coût estimé 70000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "430m2",
+        "BUDGET": "70000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "chauffage 390m2 zinc, traitement humidité, budget 65000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "MATERIAU": "Zinc",
+        "SURFACE": "390m2",
+        "ACTIVITE_SPECIALE": "Traitement Humidité",
+        "BUDGET": "65000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "escalier 230m², durée 10 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "SURFACE": "230m²",
+        "DUREE_ESTIMEE": "10 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "peinture 30m2, éclairage led",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "SURFACE": "30m2",
+        "ACTIVITE_SPECIALE": "Éclairage Led"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "façade : 140m² en ardoise, coût estimé 25000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Façade",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "140m²",
+        "BUDGET": "25000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "charpente 410m2 pvc, équipe de 4 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Pvc",
+        "SURFACE": "410m2",
+        "NB_OUVRIERS": "4 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "maçonnerie 30m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "SURFACE": "30m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "plomberie 260m2 ardoise, équipe de 2 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "260m2",
+        "NB_OUVRIERS": "2 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "toiture : 300m2 en ardoise, coût estimé 15000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "300m2",
+        "BUDGET": "15000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "menuiserie 30 m2, protection contre la corrosion",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "SURFACE": "30 m2",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "menuiserie 330m2, durée 15 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "SURFACE": "330m2",
+        "DUREE_ESTIMEE": "15 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "plomberie 70m2 gypse, sécurité incendie, budget 30000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Gypse",
+        "SURFACE": "70m2",
+        "ACTIVITE_SPECIALE": "Sécurité Incendie",
+        "BUDGET": "30000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "béton 330 m2 en ardoise, incluant décontamination, budget 55000€, équipe 5 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "330 m2",
+        "ACTIVITE_SPECIALE": "Décontamination",
+        "BUDGET": "55000€",
+        "NB_OUVRIERS": "5 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "isolation 440 m2, traitement humidité",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "SURFACE": "440 m2",
+        "ACTIVITE_SPECIALE": "Traitement Humidité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "électricité 200m2 cuivre, équipe de petit groupe",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "200m2",
+        "NB_OUVRIERS": "petit groupe"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "revêtement 190m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Revêtement",
+        "SURFACE": "190m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "excavation : 110m² en pvc, coût estimé 35000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "MATERIAU": "Pvc",
+        "SURFACE": "110m²",
+        "BUDGET": "35000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "escalier 340m² pierre, ventilation, budget 30000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "MATERIAU": "Pierre",
+        "SURFACE": "340m²",
+        "ACTIVITE_SPECIALE": "Ventilation",
+        "BUDGET": "30000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "inox pour escalier (310 m²), ventilation requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "MATERIAU": "Inox",
+        "SURFACE": "310 m²",
+        "ACTIVITE_SPECIALE": "Ventilation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "piscine 390 m² ardoise, décontamination, budget 90000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "390 m²",
+        "ACTIVITE_SPECIALE": "Décontamination",
+        "BUDGET": "90000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "maçonnerie 330m2, durée 2 mois",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "SURFACE": "330m2",
+        "DUREE_ESTIMEE": "2 Mois"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "démolition 440 m2 en béton poli, incluant climatisation, budget 30000€, équipe équipe de 5",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "440 m2",
+        "ACTIVITE_SPECIALE": "Climatisation",
+        "BUDGET": "30000€",
+        "NB_OUVRIERS": "équipe de 5"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "gutter 400m2 béton, ventilation, budget 55000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "MATERIAU": "Béton",
+        "SURFACE": "400m2",
+        "ACTIVITE_SPECIALE": "Ventilation",
+        "BUDGET": "55000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "carrelage 210 m² en pierre, incluant désamiantage, budget 55000€, équipe équipe de 5",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "MATERIAU": "Pierre",
+        "SURFACE": "210 m²",
+        "ACTIVITE_SPECIALE": "Désamiantage",
+        "BUDGET": "55000€",
+        "NB_OUVRIERS": "équipe de 5"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "carrelage pour peinture (460 m²), désamiantage requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "460 m²",
+        "ACTIVITE_SPECIALE": "Désamiantage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "bois pour escalier (380 m2), conformité handicap requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "MATERIAU": "Bois",
+        "SURFACE": "380 m2",
+        "ACTIVITE_SPECIALE": "Conformité Handicap"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "plomberie 70 m², durée 3 mois",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "SURFACE": "70 m²",
+        "DUREE_ESTIMEE": "3 Mois"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "Nous proposons toiture 260m², matériau zinc, avec isolation acoustique",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Zinc",
+        "SURFACE": "260m²",
+        "ACTIVITE_SPECIALE": "Isolation Acoustique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "Nous proposons isolation 100 m2, matériau fibre de verre, avec aération",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "MATERIAU": "Fibre De Verre",
+        "SURFACE": "100 m2",
+        "ACTIVITE_SPECIALE": "Aération"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "électricité : 200m² en pvc, coût estimé 25000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "MATERIAU": "Pvc",
+        "SURFACE": "200m²",
+        "BUDGET": "25000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "gutter 390m2 ardoise",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "390m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "plomberie : 30m2 en béton, coût estimé 5000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Béton",
+        "SURFACE": "30m2",
+        "BUDGET": "5000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "maçonnerie 410m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "SURFACE": "410m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "béton 300m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "SURFACE": "300m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "chauffage 270 m² brique, isolation thermique, budget 45000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "MATERIAU": "Brique",
+        "SURFACE": "270 m²",
+        "ACTIVITE_SPECIALE": "Isolation Thermique",
+        "BUDGET": "45000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "démolition 230 m² parquet, équipe de 5 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Parquet",
+        "SURFACE": "230 m²",
+        "NB_OUVRIERS": "5 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "isolation 400 m² tôle, étanchéité, budget 65000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "MATERIAU": "Tôle",
+        "SURFACE": "400 m²",
+        "ACTIVITE_SPECIALE": "Étanchéité",
+        "BUDGET": "65000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "façade 50 m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Façade",
+        "SURFACE": "50 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "isolation 340 m2 béton",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "MATERIAU": "Béton",
+        "SURFACE": "340 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "Nous proposons maçonnerie 470 m², matériau bois, avec traitement humidité",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "MATERIAU": "Bois",
+        "SURFACE": "470 m²",
+        "ACTIVITE_SPECIALE": "Traitement Humidité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "démolition 60 m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "SURFACE": "60 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "ardoise pour béton (40 m²), désamiantage requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "40 m²",
+        "ACTIVITE_SPECIALE": "Désamiantage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "carrelage pour cloison (330 m2), aération requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "330 m2",
+        "ACTIVITE_SPECIALE": "Aération"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "excavation 80 m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "SURFACE": "80 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "toiture 480m², isolation thermique",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "SURFACE": "480m²",
+        "ACTIVITE_SPECIALE": "Isolation Thermique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "carrelage 470 m2, durée 30 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "SURFACE": "470 m2",
+        "DUREE_ESTIMEE": "30 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "pierre pour isolation (300 m2), mise aux normes requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "MATERIAU": "Pierre",
+        "SURFACE": "300 m2",
+        "ACTIVITE_SPECIALE": "Mise Aux Normes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "chauffage 330 m2, climatisation",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "SURFACE": "330 m2",
+        "ACTIVITE_SPECIALE": "Climatisation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "toiture 450m², mise aux normes",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "SURFACE": "450m²",
+        "ACTIVITE_SPECIALE": "Mise Aux Normes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "plomberie : 490m² en ardoise, coût estimé 70000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "490m²",
+        "BUDGET": "70000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "Nous proposons toiture 310 m2, matériau brique, avec chauffage",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Brique",
+        "SURFACE": "310 m2",
+        "ACTIVITE_SPECIALE": "Chauffage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "chauffage 450m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "SURFACE": "450m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "Nous proposons charpente 180m², matériau parquet, avec traitement humidité",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Parquet",
+        "SURFACE": "180m²",
+        "ACTIVITE_SPECIALE": "Traitement Humidité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "revêtement 270m2 carrelage, désamiantage, budget 65000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Revêtement",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "270m2",
+        "ACTIVITE_SPECIALE": "Désamiantage",
+        "BUDGET": "65000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "toiture 480m2, désamiantage",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "SURFACE": "480m2",
+        "ACTIVITE_SPECIALE": "Désamiantage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "excavation 350 m2 tuiles, traitement humidité, budget 20000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "350 m2",
+        "ACTIVITE_SPECIALE": "Traitement Humidité",
+        "BUDGET": "20000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "fenêtres 490 m2, isolation acoustique",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "SURFACE": "490 m2",
+        "ACTIVITE_SPECIALE": "Isolation Acoustique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "plâtre pour électricité (120 m²), aération requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "MATERIAU": "Plâtre",
+        "SURFACE": "120 m²",
+        "ACTIVITE_SPECIALE": "Aération"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "maçonnerie 360m² en pvc, incluant étanchéité, budget 95000 euros, équipe 4 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "MATERIAU": "Pvc",
+        "SURFACE": "360m²",
+        "ACTIVITE_SPECIALE": "Étanchéité",
+        "BUDGET": "95000 euros",
+        "NB_OUVRIERS": "4 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "toiture : 120m² en gypse, coût estimé 40000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Gypse",
+        "SURFACE": "120m²",
+        "BUDGET": "40000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "gypse pour cloison (20 m2), isolation acoustique requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Gypse",
+        "SURFACE": "20 m2",
+        "ACTIVITE_SPECIALE": "Isolation Acoustique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "peinture 230m2 bois",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Bois",
+        "SURFACE": "230m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "béton poli pour carrelage (110 m²), protection contre la corrosion requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "110 m²",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "charpente 330m² tôle, conformité handicap, budget 60000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Tôle",
+        "SURFACE": "330m²",
+        "ACTIVITE_SPECIALE": "Conformité Handicap",
+        "BUDGET": "60000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "cloison 310 m2 en ardoise, incluant mise aux normes, budget 15000 euros, équipe grande équipe",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "310 m2",
+        "ACTIVITE_SPECIALE": "Mise Aux Normes",
+        "BUDGET": "15000 euros",
+        "NB_OUVRIERS": "grande équipe"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "béton 50 m² pierre",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "MATERIAU": "Pierre",
+        "SURFACE": "50 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "électricité 80m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "SURFACE": "80m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "démolition 490 m2, durée 5 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "SURFACE": "490 m2",
+        "DUREE_ESTIMEE": "5 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "fenêtres 160 m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "SURFACE": "160 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "peinture : 480m² en bitume, coût estimé 95000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Bitume",
+        "SURFACE": "480m²",
+        "BUDGET": "95000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "revêtement 410 m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Revêtement",
+        "SURFACE": "410 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "cloison 30m2 gypse",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Gypse",
+        "SURFACE": "30m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "charpente 80m2 en pierre, incluant désamiantage, budget 90000€, équipe 2 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Pierre",
+        "SURFACE": "80m2",
+        "ACTIVITE_SPECIALE": "Désamiantage",
+        "BUDGET": "90000€",
+        "NB_OUVRIERS": "2 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "menuiserie 110 m², durée 10 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "SURFACE": "110 m²",
+        "DUREE_ESTIMEE": "10 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "excavation 320 m2 tôle, désamiantage, budget 25000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "MATERIAU": "Tôle",
+        "SURFACE": "320 m2",
+        "ACTIVITE_SPECIALE": "Désamiantage",
+        "BUDGET": "25000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "maçonnerie 50m², durée 4 semaines",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "SURFACE": "50m²",
+        "DUREE_ESTIMEE": "4 Semaines"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "revêtement 180m2 parquet",
+      "entities": {
+        "TYPE_TRAVAIL": "Revêtement",
+        "MATERIAU": "Parquet",
+        "SURFACE": "180m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "plomberie : 180 m2 en brique, coût estimé 95000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Brique",
+        "SURFACE": "180 m2",
+        "BUDGET": "95000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "piscine : 120m² en carrelage, coût estimé 95000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "120m²",
+        "BUDGET": "95000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "Nous proposons charpente 100m², matériau tuiles, avec aération",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "100m²",
+        "ACTIVITE_SPECIALE": "Aération"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "béton poli pour démolition (440m2), traitement humidité requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "440m2",
+        "ACTIVITE_SPECIALE": "Traitement Humidité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "électricité 150 m² fibre de verre",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "MATERIAU": "Fibre De Verre",
+        "SURFACE": "150 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "toiture 20 m², durée 3 mois",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "SURFACE": "20 m²",
+        "DUREE_ESTIMEE": "3 Mois"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "fenêtres 60 m2, durée 2 semaines",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "SURFACE": "60 m2",
+        "DUREE_ESTIMEE": "2 Semaines"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "excavation 400 m2 pierre, isolation thermique, budget 15000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "MATERIAU": "Pierre",
+        "SURFACE": "400 m2",
+        "ACTIVITE_SPECIALE": "Isolation Thermique",
+        "BUDGET": "15000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "Nous proposons escalier 80m², matériau brique, avec protection contre la corrosion",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "MATERIAU": "Brique",
+        "SURFACE": "80m²",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "isolation 380m² en tuiles, incluant protection contre la corrosion, budget 5000€, équipe 1 personne",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "380m²",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion",
+        "BUDGET": "5000€",
+        "NB_OUVRIERS": "1 personne"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "charpente 350 m² en carrelage, incluant désamiantage, budget 55000€, équipe 4 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "350 m²",
+        "ACTIVITE_SPECIALE": "Désamiantage",
+        "BUDGET": "55000€",
+        "NB_OUVRIERS": "4 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "menuiserie 90m², durée 3 semaines",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "SURFACE": "90m²",
+        "DUREE_ESTIMEE": "3 Semaines"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "revêtement : 320m2 en tôle, coût estimé 90000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Revêtement",
+        "MATERIAU": "Tôle",
+        "SURFACE": "320m2",
+        "BUDGET": "90000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "Nous proposons fenêtres 490m², matériau bitume, avec chauffage",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "MATERIAU": "Bitume",
+        "SURFACE": "490m²",
+        "ACTIVITE_SPECIALE": "Chauffage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "isolation 220 m², ventilation",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "SURFACE": "220 m²",
+        "ACTIVITE_SPECIALE": "Ventilation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "électricité 130m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "SURFACE": "130m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "isolation 350m2, durée 2 semaines",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "SURFACE": "350m2",
+        "DUREE_ESTIMEE": "2 Semaines"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "peinture 480m2 brique",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Brique",
+        "SURFACE": "480m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "revêtement 270 m2 pvc, équipe de 5 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Revêtement",
+        "MATERIAU": "Pvc",
+        "SURFACE": "270 m2",
+        "NB_OUVRIERS": "5 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "démolition : 370m2 en pierre, coût estimé 45000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Pierre",
+        "SURFACE": "370m2",
+        "BUDGET": "45000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "électricité 300m2, protection contre la corrosion",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "SURFACE": "300m2",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "béton 480 m², protection contre la corrosion",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "SURFACE": "480 m²",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "excavation 290m² aluminium, équipe de petit groupe",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "MATERIAU": "Aluminium",
+        "SURFACE": "290m²",
+        "NB_OUVRIERS": "petit groupe"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "toiture 460 m² en tuiles, incluant étanchéité, budget 40000€, équipe 3 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "460 m²",
+        "ACTIVITE_SPECIALE": "Étanchéité",
+        "BUDGET": "40000€",
+        "NB_OUVRIERS": "3 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "maçonnerie 430 m² fibre de verre, isolation thermique, budget 25000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "MATERIAU": "Fibre De Verre",
+        "SURFACE": "430 m²",
+        "ACTIVITE_SPECIALE": "Isolation Thermique",
+        "BUDGET": "25000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "parquet pour cloison (50m²), climatisation requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Parquet",
+        "SURFACE": "50m²",
+        "ACTIVITE_SPECIALE": "Climatisation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "fenêtres 450 m2 en plâtre, incluant désamiantage, budget 20000 euros, équipe équipe de 5",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "MATERIAU": "Plâtre",
+        "SURFACE": "450 m2",
+        "ACTIVITE_SPECIALE": "Désamiantage",
+        "BUDGET": "20000 euros",
+        "NB_OUVRIERS": "équipe de 5"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "Nous proposons peinture 270 m², matériau parquet, avec isolation acoustique",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Parquet",
+        "SURFACE": "270 m²",
+        "ACTIVITE_SPECIALE": "Isolation Acoustique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "carrelage pour façade (420 m2), climatisation requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Façade",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "420 m2",
+        "ACTIVITE_SPECIALE": "Climatisation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "escalier 130m² carrelage",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "130m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "Nous proposons menuiserie 390 m2, matériau gypse, avec conformité handicap",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Gypse",
+        "SURFACE": "390 m2",
+        "ACTIVITE_SPECIALE": "Conformité Handicap"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "façade 310m2 brique",
+      "entities": {
+        "TYPE_TRAVAIL": "Façade",
+        "MATERIAU": "Brique",
+        "SURFACE": "310m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "cloison 100 m2, durée 2 mois",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "SURFACE": "100 m2",
+        "DUREE_ESTIMEE": "2 Mois"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "démolition 160 m2, durée 2 mois",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "SURFACE": "160 m2",
+        "DUREE_ESTIMEE": "2 Mois"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "façade 180 m2, durée 3 mois",
+      "entities": {
+        "TYPE_TRAVAIL": "Façade",
+        "SURFACE": "180 m2",
+        "DUREE_ESTIMEE": "3 Mois"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "menuiserie 150m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "SURFACE": "150m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "chauffage 480 m2, ventilation",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "SURFACE": "480 m2",
+        "ACTIVITE_SPECIALE": "Ventilation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "Nous proposons menuiserie 60 m2, matériau parquet, avec conformité handicap",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Parquet",
+        "SURFACE": "60 m2",
+        "ACTIVITE_SPECIALE": "Conformité Handicap"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "façade 390m² en cuivre, incluant isolation thermique, budget 55000 euros, équipe petit groupe",
+      "entities": {
+        "TYPE_TRAVAIL": "Façade",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "390m²",
+        "ACTIVITE_SPECIALE": "Isolation Thermique",
+        "BUDGET": "55000 euros",
+        "NB_OUVRIERS": "petit groupe"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "peinture 170 m² gypse, isolation acoustique, budget 75000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Gypse",
+        "SURFACE": "170 m²",
+        "ACTIVITE_SPECIALE": "Isolation Acoustique",
+        "BUDGET": "75000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "fenêtres 160 m², étanchéité",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "SURFACE": "160 m²",
+        "ACTIVITE_SPECIALE": "Étanchéité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "toiture : 260m² en ardoise, coût estimé 50000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "260m²",
+        "BUDGET": "50000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "gutter 220 m2 cuivre",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "220 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "béton 250 m² cuivre, équipe de 1 personne",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "250 m²",
+        "NB_OUVRIERS": "1 personne"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "plomberie 440m2 en cuivre, incluant désamiantage, budget 35000 euros, équipe petit groupe",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "440m2",
+        "ACTIVITE_SPECIALE": "Désamiantage",
+        "BUDGET": "35000 euros",
+        "NB_OUVRIERS": "petit groupe"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "plomberie 470 m², durée 10 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "SURFACE": "470 m²",
+        "DUREE_ESTIMEE": "10 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "gutter 270m², protection contre la corrosion",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "SURFACE": "270m²",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "cloison 440 m2, sécurité incendie",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "SURFACE": "440 m2",
+        "ACTIVITE_SPECIALE": "Sécurité Incendie"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "menuiserie : 340m2 en cuivre, coût estimé 80000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "340m2",
+        "BUDGET": "80000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "carrelage pour piscine (190 m2), étanchéité requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "190 m2",
+        "ACTIVITE_SPECIALE": "Étanchéité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "excavation 250 m², climatisation",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "SURFACE": "250 m²",
+        "ACTIVITE_SPECIALE": "Climatisation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "menuiserie 250m2, durée 5 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "SURFACE": "250m2",
+        "DUREE_ESTIMEE": "5 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "peinture 430 m² bitume",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Bitume",
+        "SURFACE": "430 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "revêtement 230 m2 béton, conformité handicap, budget 60000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Revêtement",
+        "MATERIAU": "Béton",
+        "SURFACE": "230 m2",
+        "ACTIVITE_SPECIALE": "Conformité Handicap",
+        "BUDGET": "60000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "chauffage 220 m2 brique, éclairage led, budget 30000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "MATERIAU": "Brique",
+        "SURFACE": "220 m2",
+        "ACTIVITE_SPECIALE": "Éclairage Led",
+        "BUDGET": "30000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "Nous proposons toiture 310m2, matériau plâtre, avec décontamination",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Plâtre",
+        "SURFACE": "310m2",
+        "ACTIVITE_SPECIALE": "Décontamination"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "gutter 180 m2 cuivre, équipe de équipe de 3",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "180 m2",
+        "NB_OUVRIERS": "équipe de 3"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "plomberie 80 m2 ardoise, équipe de grande équipe",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "80 m2",
+        "NB_OUVRIERS": "grande équipe"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "chauffage : 180 m2 en pierre, coût estimé 55000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "MATERIAU": "Pierre",
+        "SURFACE": "180 m2",
+        "BUDGET": "55000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "fenêtres 460m² béton",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "MATERIAU": "Béton",
+        "SURFACE": "460m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "Nous proposons plomberie 320 m2, matériau carrelage, avec mise aux normes",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "320 m2",
+        "ACTIVITE_SPECIALE": "Mise Aux Normes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "démolition 340m², durée 1 mois",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "SURFACE": "340m²",
+        "DUREE_ESTIMEE": "1 Mois"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "charpente 130 m² en carrelage, incluant isolation acoustique, budget 75000€, équipe équipe de 3",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "130 m²",
+        "ACTIVITE_SPECIALE": "Isolation Acoustique",
+        "BUDGET": "75000€",
+        "NB_OUVRIERS": "équipe de 3"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "plomberie 250 m², aération",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "SURFACE": "250 m²",
+        "ACTIVITE_SPECIALE": "Aération"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "charpente 360m² aluminium, aération, budget 85000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Aluminium",
+        "SURFACE": "360m²",
+        "ACTIVITE_SPECIALE": "Aération",
+        "BUDGET": "85000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "Nous proposons carrelage 220 m², matériau fibre de verre, avec isolation thermique",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "MATERIAU": "Fibre De Verre",
+        "SURFACE": "220 m²",
+        "ACTIVITE_SPECIALE": "Isolation Thermique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "fenêtres 300 m² bois, équipe de 3 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "MATERIAU": "Bois",
+        "SURFACE": "300 m²",
+        "NB_OUVRIERS": "3 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "béton 180 m², sécurité incendie",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "SURFACE": "180 m²",
+        "ACTIVITE_SPECIALE": "Sécurité Incendie"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "démolition : 240m2 en inox, coût estimé 50000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Inox",
+        "SURFACE": "240m2",
+        "BUDGET": "50000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "parquet pour électricité (100m²), désamiantage requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "MATERIAU": "Parquet",
+        "SURFACE": "100m²",
+        "ACTIVITE_SPECIALE": "Désamiantage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "charpente 450m² plâtre, équipe de équipe de 3",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Plâtre",
+        "SURFACE": "450m²",
+        "NB_OUVRIERS": "équipe de 3"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "isolation 330 m2 aluminium, étanchéité, budget 30000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "MATERIAU": "Aluminium",
+        "SURFACE": "330 m2",
+        "ACTIVITE_SPECIALE": "Étanchéité",
+        "BUDGET": "30000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "piscine 130m2, mise aux normes",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "SURFACE": "130m2",
+        "ACTIVITE_SPECIALE": "Mise Aux Normes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "excavation 150m2 plâtre, équipe de grande équipe",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "MATERIAU": "Plâtre",
+        "SURFACE": "150m2",
+        "NB_OUVRIERS": "grande équipe"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "pvc pour toiture (290 m2), décontamination requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Pvc",
+        "SURFACE": "290 m2",
+        "ACTIVITE_SPECIALE": "Décontamination"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "piscine 350 m² cuivre, isolation thermique, budget 70000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "350 m²",
+        "ACTIVITE_SPECIALE": "Isolation Thermique",
+        "BUDGET": "70000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "gutter 110m², durée 5 jours ouvrables",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "SURFACE": "110m²",
+        "DUREE_ESTIMEE": "5 Jours Ouvrables"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "gutter 430 m2 zinc, décontamination, budget 15000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "MATERIAU": "Zinc",
+        "SURFACE": "430 m2",
+        "ACTIVITE_SPECIALE": "Décontamination",
+        "BUDGET": "15000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "excavation 390 m2 parquet, décontamination, budget 50000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "MATERIAU": "Parquet",
+        "SURFACE": "390 m2",
+        "ACTIVITE_SPECIALE": "Décontamination",
+        "BUDGET": "50000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "tuiles pour démolition (250m2), conformité handicap requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "250m2",
+        "ACTIVITE_SPECIALE": "Conformité Handicap"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "excavation 160m2 bitume",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "MATERIAU": "Bitume",
+        "SURFACE": "160m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "béton 470 m2 bitume, équipe de équipe de 5",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "MATERIAU": "Bitume",
+        "SURFACE": "470 m2",
+        "NB_OUVRIERS": "équipe de 5"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "piscine 470m2 en brique, incluant isolation acoustique, budget 20000€, équipe 6 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Brique",
+        "SURFACE": "470m2",
+        "ACTIVITE_SPECIALE": "Isolation Acoustique",
+        "BUDGET": "20000€",
+        "NB_OUVRIERS": "6 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "escalier 190 m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "SURFACE": "190 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "peinture 350 m2 pvc, isolation thermique, budget 65000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Pvc",
+        "SURFACE": "350 m2",
+        "ACTIVITE_SPECIALE": "Isolation Thermique",
+        "BUDGET": "65000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "Nous proposons revêtement 420 m², matériau tuiles, avec climatisation",
+      "entities": {
+        "TYPE_TRAVAIL": "Revêtement",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "420 m²",
+        "ACTIVITE_SPECIALE": "Climatisation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "charpente : 120 m2 en aluminium, coût estimé 10000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Aluminium",
+        "SURFACE": "120 m2",
+        "BUDGET": "10000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "chauffage 460 m2 inox",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "MATERIAU": "Inox",
+        "SURFACE": "460 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "peinture 100m² plâtre",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Plâtre",
+        "SURFACE": "100m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "Nous proposons gutter 70 m², matériau bois, avec sécurité incendie",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "MATERIAU": "Bois",
+        "SURFACE": "70 m²",
+        "ACTIVITE_SPECIALE": "Sécurité Incendie"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "carrelage : 330m2 en carrelage, coût estimé 80000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "330m2",
+        "BUDGET": "80000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "béton 310 m2 pierre, équipe de petit groupe",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "MATERIAU": "Pierre",
+        "SURFACE": "310 m2",
+        "NB_OUVRIERS": "petit groupe"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "gutter 490m² en cuivre, incluant conformité handicap, budget 25000 euros, équipe 3 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "490m²",
+        "ACTIVITE_SPECIALE": "Conformité Handicap",
+        "BUDGET": "25000 euros",
+        "NB_OUVRIERS": "3 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "Nous proposons démolition 270m2, matériau pvc, avec isolation acoustique",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Pvc",
+        "SURFACE": "270m2",
+        "ACTIVITE_SPECIALE": "Isolation Acoustique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "béton 440m² bitume, décontamination, budget 20000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "MATERIAU": "Bitume",
+        "SURFACE": "440m²",
+        "ACTIVITE_SPECIALE": "Décontamination",
+        "BUDGET": "20000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "maçonnerie 190m2 pierre, équipe de 5 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "MATERIAU": "Pierre",
+        "SURFACE": "190m2",
+        "NB_OUVRIERS": "5 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "menuiserie : 400m2 en zinc, coût estimé 65000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Zinc",
+        "SURFACE": "400m2",
+        "BUDGET": "65000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "piscine 220 m², ventilation",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "SURFACE": "220 m²",
+        "ACTIVITE_SPECIALE": "Ventilation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "ardoise pour maçonnerie (130m2), isolation thermique requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "130m2",
+        "ACTIVITE_SPECIALE": "Isolation Thermique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "gypse pour gutter (240m²), traitement humidité requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "MATERIAU": "Gypse",
+        "SURFACE": "240m²",
+        "ACTIVITE_SPECIALE": "Traitement Humidité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "gutter 110 m² en bitume, incluant aération, budget 95000€, équipe grande équipe",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "MATERIAU": "Bitume",
+        "SURFACE": "110 m²",
+        "ACTIVITE_SPECIALE": "Aération",
+        "BUDGET": "95000€",
+        "NB_OUVRIERS": "grande équipe"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "peinture 320 m² tuiles",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "320 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "maçonnerie 30m² en carrelage, incluant décontamination, budget 70000€, équipe équipe de 3",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "30m²",
+        "ACTIVITE_SPECIALE": "Décontamination",
+        "BUDGET": "70000€",
+        "NB_OUVRIERS": "équipe de 3"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "plomberie 410m² brique",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Brique",
+        "SURFACE": "410m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "revêtement 180 m², étanchéité",
+      "entities": {
+        "TYPE_TRAVAIL": "Revêtement",
+        "SURFACE": "180 m²",
+        "ACTIVITE_SPECIALE": "Étanchéité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "démolition 180m2, durée 15 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "SURFACE": "180m2",
+        "DUREE_ESTIMEE": "15 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "gutter 250 m² zinc, protection contre la corrosion, budget 35000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "MATERIAU": "Zinc",
+        "SURFACE": "250 m²",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion",
+        "BUDGET": "35000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "Nous proposons cloison 490m², matériau tôle, avec protection contre la corrosion",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Tôle",
+        "SURFACE": "490m²",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "isolation 40m2 en carrelage, incluant étanchéité, budget 70000 euros, équipe petit groupe",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "40m2",
+        "ACTIVITE_SPECIALE": "Étanchéité",
+        "BUDGET": "70000 euros",
+        "NB_OUVRIERS": "petit groupe"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "maçonnerie 220 m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "SURFACE": "220 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "peinture 450m2 en tuiles, incluant chauffage, budget 30000€, équipe 6 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "450m2",
+        "ACTIVITE_SPECIALE": "Chauffage",
+        "BUDGET": "30000€",
+        "NB_OUVRIERS": "6 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "zinc pour menuiserie (120m²), sécurité incendie requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Zinc",
+        "SURFACE": "120m²",
+        "ACTIVITE_SPECIALE": "Sécurité Incendie"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "électricité 140 m2, durée 2 semaines",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "SURFACE": "140 m2",
+        "DUREE_ESTIMEE": "2 Semaines"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "isolation : 240 m2 en fibre de verre, coût estimé 10000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "MATERIAU": "Fibre De Verre",
+        "SURFACE": "240 m2",
+        "BUDGET": "10000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "charpente 200m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "SURFACE": "200m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "plomberie 400m² en bitume, incluant éclairage led, budget 55000€, équipe équipe de 5",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Bitume",
+        "SURFACE": "400m²",
+        "ACTIVITE_SPECIALE": "Éclairage Led",
+        "BUDGET": "55000€",
+        "NB_OUVRIERS": "équipe de 5"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "peinture 250m² bois, climatisation, budget 90000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Bois",
+        "SURFACE": "250m²",
+        "ACTIVITE_SPECIALE": "Climatisation",
+        "BUDGET": "90000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "peinture 130m² tuiles, équipe de 4 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "130m²",
+        "NB_OUVRIERS": "4 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "Nous proposons toiture 230 m², matériau bitume, avec étanchéité",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Bitume",
+        "SURFACE": "230 m²",
+        "ACTIVITE_SPECIALE": "Étanchéité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "excavation 440m² gypse, traitement humidité, budget 10000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "MATERIAU": "Gypse",
+        "SURFACE": "440m²",
+        "ACTIVITE_SPECIALE": "Traitement Humidité",
+        "BUDGET": "10000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "gutter 120 m², éclairage led",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "SURFACE": "120 m²",
+        "ACTIVITE_SPECIALE": "Éclairage Led"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "piscine 470 m² en gypse, incluant isolation acoustique, budget 65000€, équipe équipe de 5",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Gypse",
+        "SURFACE": "470 m²",
+        "ACTIVITE_SPECIALE": "Isolation Acoustique",
+        "BUDGET": "65000€",
+        "NB_OUVRIERS": "équipe de 5"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "menuiserie 180m2 cuivre, aération, budget 75000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "180m2",
+        "ACTIVITE_SPECIALE": "Aération",
+        "BUDGET": "75000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "fenêtres 250m², durée 1 mois",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "SURFACE": "250m²",
+        "DUREE_ESTIMEE": "1 Mois"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "chauffage 210 m² bitume, aération, budget 40000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "MATERIAU": "Bitume",
+        "SURFACE": "210 m²",
+        "ACTIVITE_SPECIALE": "Aération",
+        "BUDGET": "40000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "bitume pour toiture (440m2), mise aux normes requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Bitume",
+        "SURFACE": "440m2",
+        "ACTIVITE_SPECIALE": "Mise Aux Normes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "Nous proposons électricité 80 m2, matériau pvc, avec chauffage",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "MATERIAU": "Pvc",
+        "SURFACE": "80 m2",
+        "ACTIVITE_SPECIALE": "Chauffage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "menuiserie 100 m2 inox, équipe de équipe de 3",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Inox",
+        "SURFACE": "100 m2",
+        "NB_OUVRIERS": "équipe de 3"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "béton 270m2 tuiles",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "270m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "toiture 470 m², isolation thermique",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "SURFACE": "470 m²",
+        "ACTIVITE_SPECIALE": "Isolation Thermique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "carrelage 400 m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "SURFACE": "400 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "cloison 170m² plâtre, étanchéité, budget 10000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Plâtre",
+        "SURFACE": "170m²",
+        "ACTIVITE_SPECIALE": "Étanchéité",
+        "BUDGET": "10000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "toiture 300m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "SURFACE": "300m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "cloison 250 m² en inox, incluant chauffage, budget 5000€, équipe petit groupe",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Inox",
+        "SURFACE": "250 m²",
+        "ACTIVITE_SPECIALE": "Chauffage",
+        "BUDGET": "5000€",
+        "NB_OUVRIERS": "petit groupe"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "démolition 220 m² en tôle, incluant étanchéité, budget 40000 euros, équipe 4 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Tôle",
+        "SURFACE": "220 m²",
+        "ACTIVITE_SPECIALE": "Étanchéité",
+        "BUDGET": "40000 euros",
+        "NB_OUVRIERS": "4 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "toiture 190 m2 pierre, éclairage led, budget 90000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Pierre",
+        "SURFACE": "190 m2",
+        "ACTIVITE_SPECIALE": "Éclairage Led",
+        "BUDGET": "90000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "escalier 110 m2 zinc, équipe de 3 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "MATERIAU": "Zinc",
+        "SURFACE": "110 m2",
+        "NB_OUVRIERS": "3 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "Nous proposons menuiserie 270 m², matériau bitume, avec climatisation",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Bitume",
+        "SURFACE": "270 m²",
+        "ACTIVITE_SPECIALE": "Climatisation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "fenêtres 320m2 béton poli, décontamination, budget 40000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "320m2",
+        "ACTIVITE_SPECIALE": "Décontamination",
+        "BUDGET": "40000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "brique pour escalier (410m²), climatisation requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "MATERIAU": "Brique",
+        "SURFACE": "410m²",
+        "ACTIVITE_SPECIALE": "Climatisation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "menuiserie 70 m2 ardoise",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "70 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "chauffage 440m2, durée 10 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "SURFACE": "440m2",
+        "DUREE_ESTIMEE": "10 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "peinture 100 m² en gypse, incluant conformité handicap, budget 80000€, équipe 2 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Gypse",
+        "SURFACE": "100 m²",
+        "ACTIVITE_SPECIALE": "Conformité Handicap",
+        "BUDGET": "80000€",
+        "NB_OUVRIERS": "2 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "cloison 410 m2, protection contre la corrosion",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "SURFACE": "410 m2",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "Nous proposons charpente 160 m2, matériau ardoise, avec éclairage led",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "160 m2",
+        "ACTIVITE_SPECIALE": "Éclairage Led"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "ardoise pour menuiserie (420 m2), isolation thermique requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "420 m2",
+        "ACTIVITE_SPECIALE": "Isolation Thermique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "cloison 300m² aluminium",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Aluminium",
+        "SURFACE": "300m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "escalier 240 m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "SURFACE": "240 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "plomberie 430 m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "SURFACE": "430 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "tôle pour piscine (290m²), ventilation requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Tôle",
+        "SURFACE": "290m²",
+        "ACTIVITE_SPECIALE": "Ventilation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "isolation 30 m², durée 4 semaines",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "SURFACE": "30 m²",
+        "DUREE_ESTIMEE": "4 Semaines"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "démolition 170m2, durée 10 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "SURFACE": "170m2",
+        "DUREE_ESTIMEE": "10 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "Nous proposons fenêtres 110m2, matériau béton, avec conformité handicap",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "MATERIAU": "Béton",
+        "SURFACE": "110m2",
+        "ACTIVITE_SPECIALE": "Conformité Handicap"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "Nous proposons béton 50m2, matériau tôle, avec chauffage",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "MATERIAU": "Tôle",
+        "SURFACE": "50m2",
+        "ACTIVITE_SPECIALE": "Chauffage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "façade 210 m2 zinc",
+      "entities": {
+        "TYPE_TRAVAIL": "Façade",
+        "MATERIAU": "Zinc",
+        "SURFACE": "210 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "menuiserie 470 m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "SURFACE": "470 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "excavation 90 m2 aluminium",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "MATERIAU": "Aluminium",
+        "SURFACE": "90 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "aluminium pour façade (260 m2), éclairage led requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Façade",
+        "MATERIAU": "Aluminium",
+        "SURFACE": "260 m2",
+        "ACTIVITE_SPECIALE": "Éclairage Led"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "plomberie 220 m² parquet, isolation acoustique, budget 85000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Parquet",
+        "SURFACE": "220 m²",
+        "ACTIVITE_SPECIALE": "Isolation Acoustique",
+        "BUDGET": "85000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "fenêtres 440m², traitement humidité",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "SURFACE": "440m²",
+        "ACTIVITE_SPECIALE": "Traitement Humidité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "piscine 200 m² bois",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Bois",
+        "SURFACE": "200 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "carrelage 460m², durée 10 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "SURFACE": "460m²",
+        "DUREE_ESTIMEE": "10 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "béton 440 m2, durée 4 semaines",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "SURFACE": "440 m2",
+        "DUREE_ESTIMEE": "4 Semaines"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "fenêtres 270m², durée 3 mois",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "SURFACE": "270m²",
+        "DUREE_ESTIMEE": "3 Mois"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "peinture 370 m2, durée 10 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "SURFACE": "370 m2",
+        "DUREE_ESTIMEE": "10 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "revêtement 490m2 tôle, équipe de 6 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Revêtement",
+        "MATERIAU": "Tôle",
+        "SURFACE": "490m2",
+        "NB_OUVRIERS": "6 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "inox pour excavation (290m²), protection contre la corrosion requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "MATERIAU": "Inox",
+        "SURFACE": "290m²",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "démolition 350m2 fibre de verre",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Fibre De Verre",
+        "SURFACE": "350m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "piscine : 120m2 en cuivre, coût estimé 15000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "120m2",
+        "BUDGET": "15000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "piscine 180m2 inox, équipe de grande équipe",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Inox",
+        "SURFACE": "180m2",
+        "NB_OUVRIERS": "grande équipe"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "façade 190 m2 gypse, équipe de 4 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Façade",
+        "MATERIAU": "Gypse",
+        "SURFACE": "190 m2",
+        "NB_OUVRIERS": "4 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "excavation 340m2 en brique, incluant protection contre la corrosion, budget 70000 euros, équipe 1 personne",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "MATERIAU": "Brique",
+        "SURFACE": "340m2",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion",
+        "BUDGET": "70000 euros",
+        "NB_OUVRIERS": "1 personne"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "toiture 70 m², protection contre la corrosion",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "SURFACE": "70 m²",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "piscine : 390 m² en tôle, coût estimé 75000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Tôle",
+        "SURFACE": "390 m²",
+        "BUDGET": "75000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "escalier 460m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "SURFACE": "460m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "Nous proposons toiture 470m², matériau cuivre, avec conformité handicap",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "470m²",
+        "ACTIVITE_SPECIALE": "Conformité Handicap"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "Nous proposons menuiserie 400 m², matériau pvc, avec isolation acoustique",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Pvc",
+        "SURFACE": "400 m²",
+        "ACTIVITE_SPECIALE": "Isolation Acoustique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "excavation 40m2, désamiantage",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "SURFACE": "40m2",
+        "ACTIVITE_SPECIALE": "Désamiantage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "gutter 30 m2 zinc",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "MATERIAU": "Zinc",
+        "SURFACE": "30 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "escalier 30m2 béton poli, décontamination, budget 5000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "30m2",
+        "ACTIVITE_SPECIALE": "Décontamination",
+        "BUDGET": "5000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "fenêtres 120m2 brique",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "MATERIAU": "Brique",
+        "SURFACE": "120m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "façade 160m2 tôle, équipe de 6 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Façade",
+        "MATERIAU": "Tôle",
+        "SURFACE": "160m2",
+        "NB_OUVRIERS": "6 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "pvc pour escalier (250m²), sécurité incendie requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "MATERIAU": "Pvc",
+        "SURFACE": "250m²",
+        "ACTIVITE_SPECIALE": "Sécurité Incendie"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "escalier 60 m², aération",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "SURFACE": "60 m²",
+        "ACTIVITE_SPECIALE": "Aération"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "chauffage 170m2 tôle, équipe de 5 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "MATERIAU": "Tôle",
+        "SURFACE": "170m2",
+        "NB_OUVRIERS": "5 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "plomberie 430m2 en béton, incluant climatisation, budget 90000€, équipe 3 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Béton",
+        "SURFACE": "430m2",
+        "ACTIVITE_SPECIALE": "Climatisation",
+        "BUDGET": "90000€",
+        "NB_OUVRIERS": "3 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "béton pour menuiserie (210m²), isolation acoustique requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Béton",
+        "SURFACE": "210m²",
+        "ACTIVITE_SPECIALE": "Isolation Acoustique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "gutter 240 m² cuivre",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "240 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "plomberie : 110 m2 en pierre, coût estimé 40000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Pierre",
+        "SURFACE": "110 m2",
+        "BUDGET": "40000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "menuiserie 460m2 gypse, protection contre la corrosion, budget 10000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Gypse",
+        "SURFACE": "460m2",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion",
+        "BUDGET": "10000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "gutter 110m2, durée 30 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "SURFACE": "110m2",
+        "DUREE_ESTIMEE": "30 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "menuiserie 220 m2, chauffage",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "SURFACE": "220 m2",
+        "ACTIVITE_SPECIALE": "Chauffage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "toiture 30 m2 parquet, équipe de 3 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Parquet",
+        "SURFACE": "30 m2",
+        "NB_OUVRIERS": "3 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "cloison 420 m2, durée 5 jours ouvrables",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "SURFACE": "420 m2",
+        "DUREE_ESTIMEE": "5 Jours Ouvrables"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "escalier : 380 m2 en pvc, coût estimé 40000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "MATERIAU": "Pvc",
+        "SURFACE": "380 m2",
+        "BUDGET": "40000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "Nous proposons escalier 490m2, matériau brique, avec chauffage",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "MATERIAU": "Brique",
+        "SURFACE": "490m2",
+        "ACTIVITE_SPECIALE": "Chauffage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "gutter 100m2, durée 2 mois",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "SURFACE": "100m2",
+        "DUREE_ESTIMEE": "2 Mois"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "excavation : 170 m2 en tuiles, coût estimé 85000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "170 m2",
+        "BUDGET": "85000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "plomberie 370m² bitume",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Bitume",
+        "SURFACE": "370m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "zinc pour piscine (440m2), désamiantage requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Zinc",
+        "SURFACE": "440m2",
+        "ACTIVITE_SPECIALE": "Désamiantage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "menuiserie 230 m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "SURFACE": "230 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "revêtement 390 m² en gypse, incluant ventilation, budget 80000€, équipe 4 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Revêtement",
+        "MATERIAU": "Gypse",
+        "SURFACE": "390 m²",
+        "ACTIVITE_SPECIALE": "Ventilation",
+        "BUDGET": "80000€",
+        "NB_OUVRIERS": "4 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "carrelage : 290m2 en tôle, coût estimé 55000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "MATERIAU": "Tôle",
+        "SURFACE": "290m2",
+        "BUDGET": "55000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "menuiserie : 50 m² en cuivre, coût estimé 95000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "50 m²",
+        "BUDGET": "95000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "fibre de verre pour chauffage (340 m2), isolation acoustique requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "MATERIAU": "Fibre De Verre",
+        "SURFACE": "340 m2",
+        "ACTIVITE_SPECIALE": "Isolation Acoustique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "Nous proposons béton 120 m², matériau plâtre, avec éclairage led",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "MATERIAU": "Plâtre",
+        "SURFACE": "120 m²",
+        "ACTIVITE_SPECIALE": "Éclairage Led"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "carrelage 130m2, décontamination",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "SURFACE": "130m2",
+        "ACTIVITE_SPECIALE": "Décontamination"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "chauffage : 270m² en tôle, coût estimé 90000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "MATERIAU": "Tôle",
+        "SURFACE": "270m²",
+        "BUDGET": "90000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "béton poli pour peinture (190 m2), mise aux normes requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "190 m2",
+        "ACTIVITE_SPECIALE": "Mise Aux Normes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "façade 220m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Façade",
+        "SURFACE": "220m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "chauffage 60m² ardoise",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "60m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "cloison 60m2 cuivre, étanchéité, budget 80000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "60m2",
+        "ACTIVITE_SPECIALE": "Étanchéité",
+        "BUDGET": "80000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "gutter 460 m² bois, traitement humidité, budget 50000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "MATERIAU": "Bois",
+        "SURFACE": "460 m²",
+        "ACTIVITE_SPECIALE": "Traitement Humidité",
+        "BUDGET": "50000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "excavation 200 m² gypse, protection contre la corrosion, budget 40000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "MATERIAU": "Gypse",
+        "SURFACE": "200 m²",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion",
+        "BUDGET": "40000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "béton 370m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "SURFACE": "370m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "chauffage 260 m² en parquet, incluant sécurité incendie, budget 85000€, équipe 2 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "MATERIAU": "Parquet",
+        "SURFACE": "260 m²",
+        "ACTIVITE_SPECIALE": "Sécurité Incendie",
+        "BUDGET": "85000€",
+        "NB_OUVRIERS": "2 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "escalier 380 m2 pierre, équipe de 3 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "MATERIAU": "Pierre",
+        "SURFACE": "380 m2",
+        "NB_OUVRIERS": "3 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "toiture 450 m² fibre de verre",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Fibre De Verre",
+        "SURFACE": "450 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "excavation 250 m2, durée 30 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "SURFACE": "250 m2",
+        "DUREE_ESTIMEE": "30 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "toiture 180 m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "SURFACE": "180 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "peinture 350m² pvc, équipe de 1 personne",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Pvc",
+        "SURFACE": "350m²",
+        "NB_OUVRIERS": "1 personne"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "cloison 370m² béton, équipe de équipe de 5",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Béton",
+        "SURFACE": "370m²",
+        "NB_OUVRIERS": "équipe de 5"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "chauffage 270m², durée 5 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "SURFACE": "270m²",
+        "DUREE_ESTIMEE": "5 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "peinture 470m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "SURFACE": "470m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "béton 310 m², climatisation",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "SURFACE": "310 m²",
+        "ACTIVITE_SPECIALE": "Climatisation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "chauffage 320m2 inox",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "MATERIAU": "Inox",
+        "SURFACE": "320m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "escalier 490m2, durée 3 mois",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "SURFACE": "490m2",
+        "DUREE_ESTIMEE": "3 Mois"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "façade 120m2 gypse, équipe de équipe de 5",
+      "entities": {
+        "TYPE_TRAVAIL": "Façade",
+        "MATERIAU": "Gypse",
+        "SURFACE": "120m2",
+        "NB_OUVRIERS": "équipe de 5"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "isolation 80 m²",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "SURFACE": "80 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "électricité 430m², éclairage led",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "SURFACE": "430m²",
+        "ACTIVITE_SPECIALE": "Éclairage Led"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "Nous proposons électricité 170m², matériau parquet, avec isolation acoustique",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "MATERIAU": "Parquet",
+        "SURFACE": "170m²",
+        "ACTIVITE_SPECIALE": "Isolation Acoustique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "peinture : 140 m2 en parquet, coût estimé 95000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Parquet",
+        "SURFACE": "140 m2",
+        "BUDGET": "95000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "béton poli pour gutter (110 m2), isolation acoustique requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "110 m2",
+        "ACTIVITE_SPECIALE": "Isolation Acoustique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "excavation 450 m², durée 3 mois",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "SURFACE": "450 m²",
+        "DUREE_ESTIMEE": "3 Mois"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "électricité 470 m² béton poli, sécurité incendie, budget 65000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "470 m²",
+        "ACTIVITE_SPECIALE": "Sécurité Incendie",
+        "BUDGET": "65000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "charpente 220m2 tuiles, équipe de 5 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "220m2",
+        "NB_OUVRIERS": "5 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "démolition : 310m² en pierre, coût estimé 10000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Pierre",
+        "SURFACE": "310m²",
+        "BUDGET": "10000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "maçonnerie 170 m2 bitume, climatisation, budget 70000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "MATERIAU": "Bitume",
+        "SURFACE": "170 m2",
+        "ACTIVITE_SPECIALE": "Climatisation",
+        "BUDGET": "70000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "fenêtres 270m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "SURFACE": "270m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "inox pour peinture (140m²), étanchéité requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Inox",
+        "SURFACE": "140m²",
+        "ACTIVITE_SPECIALE": "Étanchéité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "piscine 150 m² plâtre, traitement humidité, budget 60000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Plâtre",
+        "SURFACE": "150 m²",
+        "ACTIVITE_SPECIALE": "Traitement Humidité",
+        "BUDGET": "60000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "fenêtres 60m2 brique",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "MATERIAU": "Brique",
+        "SURFACE": "60m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "charpente 470m2 bitume, équipe de grande équipe",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Bitume",
+        "SURFACE": "470m2",
+        "NB_OUVRIERS": "grande équipe"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "revêtement : 390m² en brique, coût estimé 10000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Revêtement",
+        "MATERIAU": "Brique",
+        "SURFACE": "390m²",
+        "BUDGET": "10000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "charpente 180 m² bois",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Bois",
+        "SURFACE": "180 m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "chauffage 130 m², sécurité incendie",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "SURFACE": "130 m²",
+        "ACTIVITE_SPECIALE": "Sécurité Incendie"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "excavation 330m2 bitume, étanchéité, budget 65000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "MATERIAU": "Bitume",
+        "SURFACE": "330m2",
+        "ACTIVITE_SPECIALE": "Étanchéité",
+        "BUDGET": "65000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "électricité 260 m² ardoise, équipe de équipe de 3",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "260 m²",
+        "NB_OUVRIERS": "équipe de 3"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "escalier 60 m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "SURFACE": "60 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "revêtement 160m2 béton poli, aération, budget 15000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Revêtement",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "160m2",
+        "ACTIVITE_SPECIALE": "Aération",
+        "BUDGET": "15000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "peinture 450m², étanchéité",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "SURFACE": "450m²",
+        "ACTIVITE_SPECIALE": "Étanchéité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "Nous proposons excavation 440 m2, matériau zinc, avec sécurité incendie",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "MATERIAU": "Zinc",
+        "SURFACE": "440 m2",
+        "ACTIVITE_SPECIALE": "Sécurité Incendie"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "Nous proposons piscine 120 m2, matériau pierre, avec traitement humidité",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Pierre",
+        "SURFACE": "120 m2",
+        "ACTIVITE_SPECIALE": "Traitement Humidité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "cuivre pour démolition (110 m2), isolation thermique requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "110 m2",
+        "ACTIVITE_SPECIALE": "Isolation Thermique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "charpente 230m2, protection contre la corrosion",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "SURFACE": "230m2",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "Nous proposons maçonnerie 180 m2, matériau pvc, avec ventilation",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "MATERIAU": "Pvc",
+        "SURFACE": "180 m2",
+        "ACTIVITE_SPECIALE": "Ventilation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "Nous proposons gutter 40m2, matériau bitume, avec ventilation",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "MATERIAU": "Bitume",
+        "SURFACE": "40m2",
+        "ACTIVITE_SPECIALE": "Ventilation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "électricité 490m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "SURFACE": "490m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "béton 60 m2 en inox, incluant sécurité incendie, budget 90000 euros, équipe 4 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "MATERIAU": "Inox",
+        "SURFACE": "60 m2",
+        "ACTIVITE_SPECIALE": "Sécurité Incendie",
+        "BUDGET": "90000 euros",
+        "NB_OUVRIERS": "4 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "bitume pour plomberie (150m²), chauffage requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Bitume",
+        "SURFACE": "150m²",
+        "ACTIVITE_SPECIALE": "Chauffage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "béton 330m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "SURFACE": "330m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "maçonnerie 300m2, durée 5 jours ouvrables",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "SURFACE": "300m2",
+        "DUREE_ESTIMEE": "5 Jours Ouvrables"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "isolation : 30 m2 en ardoise, coût estimé 25000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "30 m2",
+        "BUDGET": "25000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "électricité 230 m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "SURFACE": "230 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "isolation 280m2 pierre, chauffage, budget 35000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "MATERIAU": "Pierre",
+        "SURFACE": "280m2",
+        "ACTIVITE_SPECIALE": "Chauffage",
+        "BUDGET": "35000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "plomberie 120m² carrelage, isolation thermique, budget 20000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Carrelage",
+        "SURFACE": "120m²",
+        "ACTIVITE_SPECIALE": "Isolation Thermique",
+        "BUDGET": "20000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "fenêtres 310m² béton poli, équipe de 6 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "310m²",
+        "NB_OUVRIERS": "6 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "aluminium pour chauffage (350m²), isolation thermique requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "MATERIAU": "Aluminium",
+        "SURFACE": "350m²",
+        "ACTIVITE_SPECIALE": "Isolation Thermique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "maçonnerie : 450 m2 en ardoise, coût estimé 65000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "450 m2",
+        "BUDGET": "65000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "béton 80 m2, conformité handicap",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "SURFACE": "80 m2",
+        "ACTIVITE_SPECIALE": "Conformité Handicap"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "maçonnerie 310 m2 en béton poli, incluant éclairage led, budget 15000€, équipe équipe de 3",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "310 m2",
+        "ACTIVITE_SPECIALE": "Éclairage Led",
+        "BUDGET": "15000€",
+        "NB_OUVRIERS": "équipe de 3"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "isolation 130m2 bois, climatisation, budget 60000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "MATERIAU": "Bois",
+        "SURFACE": "130m2",
+        "ACTIVITE_SPECIALE": "Climatisation",
+        "BUDGET": "60000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "démolition 310m², durée 1 mois",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "SURFACE": "310m²",
+        "DUREE_ESTIMEE": "1 Mois"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "piscine 430 m², durée 5 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "SURFACE": "430 m²",
+        "DUREE_ESTIMEE": "5 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "charpente 370m² en cuivre, incluant protection contre la corrosion, budget 65000€, équipe 2 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "370m²",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion",
+        "BUDGET": "65000€",
+        "NB_OUVRIERS": "2 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "Nous proposons isolation 330m2, matériau pierre, avec désamiantage",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "MATERIAU": "Pierre",
+        "SURFACE": "330m2",
+        "ACTIVITE_SPECIALE": "Désamiantage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "charpente 420 m2 en tuiles, incluant décontamination, budget 95000€, équipe 1 personne",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "420 m2",
+        "ACTIVITE_SPECIALE": "Décontamination",
+        "BUDGET": "95000€",
+        "NB_OUVRIERS": "1 personne"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "façade 160 m2, durée 3 semaines",
+      "entities": {
+        "TYPE_TRAVAIL": "Façade",
+        "SURFACE": "160 m2",
+        "DUREE_ESTIMEE": "3 Semaines"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "menuiserie 410m² inox, équipe de 4 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Inox",
+        "SURFACE": "410m²",
+        "NB_OUVRIERS": "4 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "électricité 230m² gypse",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "MATERIAU": "Gypse",
+        "SURFACE": "230m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "pierre pour escalier (100 m²), mise aux normes requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Escalier",
+        "MATERIAU": "Pierre",
+        "SURFACE": "100 m²",
+        "ACTIVITE_SPECIALE": "Mise Aux Normes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "béton : 230 m2 en tôle, coût estimé 80000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "MATERIAU": "Tôle",
+        "SURFACE": "230 m2",
+        "BUDGET": "80000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "béton 390m2 en béton poli, incluant protection contre la corrosion, budget 10000€, équipe 4 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Béton",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "390m2",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion",
+        "BUDGET": "10000€",
+        "NB_OUVRIERS": "4 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "isolation 190 m2, durée 5 jours",
+      "entities": {
+        "TYPE_TRAVAIL": "Isolation",
+        "SURFACE": "190 m2",
+        "DUREE_ESTIMEE": "5 Jours"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "excavation 40m², durée 2 semaines",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "SURFACE": "40m²",
+        "DUREE_ESTIMEE": "2 Semaines"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "DUREE_ESTIMEE"
+      ]
+    },
+    {
+      "text": "démolition 470 m² en tuiles, incluant étanchéité, budget 10000€, équipe grande équipe",
+      "entities": {
+        "TYPE_TRAVAIL": "Démolition",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "470 m²",
+        "ACTIVITE_SPECIALE": "Étanchéité",
+        "BUDGET": "10000€",
+        "NB_OUVRIERS": "grande équipe"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "peinture 190 m² en inox, incluant traitement humidité, budget 55000€, équipe 2 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Peinture",
+        "MATERIAU": "Inox",
+        "SURFACE": "190 m²",
+        "ACTIVITE_SPECIALE": "Traitement Humidité",
+        "BUDGET": "55000€",
+        "NB_OUVRIERS": "2 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "Nous proposons cloison 310 m², matériau gypse, avec éclairage led",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Gypse",
+        "SURFACE": "310 m²",
+        "ACTIVITE_SPECIALE": "Éclairage Led"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "gutter 290 m², climatisation",
+      "entities": {
+        "TYPE_TRAVAIL": "Gutter",
+        "SURFACE": "290 m²",
+        "ACTIVITE_SPECIALE": "Climatisation"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "béton poli pour toiture (80 m2), protection contre la corrosion requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "80 m2",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "électricité 260m2 en ardoise, incluant aération, budget 70000€, équipe 3 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "260m2",
+        "ACTIVITE_SPECIALE": "Aération",
+        "BUDGET": "70000€",
+        "NB_OUVRIERS": "3 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "chauffage 390 m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "SURFACE": "390 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "menuiserie 110 m² bitume, isolation acoustique, budget 95000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Bitume",
+        "SURFACE": "110 m²",
+        "ACTIVITE_SPECIALE": "Isolation Acoustique",
+        "BUDGET": "95000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "cloison 290m² en cuivre, incluant protection contre la corrosion, budget 5000€, équipe 2 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "290m²",
+        "ACTIVITE_SPECIALE": "Protection Contre La Corrosion",
+        "BUDGET": "5000€",
+        "NB_OUVRIERS": "2 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "cuivre pour fenêtres (110 m2), chauffage requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Fenêtres",
+        "MATERIAU": "Cuivre",
+        "SURFACE": "110 m2",
+        "ACTIVITE_SPECIALE": "Chauffage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "menuiserie 250m2, chauffage",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "SURFACE": "250m2",
+        "ACTIVITE_SPECIALE": "Chauffage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "Nous proposons carrelage 360m², matériau bois, avec éclairage led",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "MATERIAU": "Bois",
+        "SURFACE": "360m²",
+        "ACTIVITE_SPECIALE": "Éclairage Led"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "chauffage 220 m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "SURFACE": "220 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "électricité 490 m² tuiles, équipe de 3 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Électricité",
+        "MATERIAU": "Tuiles",
+        "SURFACE": "490 m²",
+        "NB_OUVRIERS": "3 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "plomberie 320 m2 ardoise, équipe de 1 personne",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "320 m2",
+        "NB_OUVRIERS": "1 personne"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "inox pour menuiserie (190m2), éclairage led requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Menuiserie",
+        "MATERIAU": "Inox",
+        "SURFACE": "190m2",
+        "ACTIVITE_SPECIALE": "Éclairage Led"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "carrelage 470 m2 ardoise, équipe de équipe de 5",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "MATERIAU": "Ardoise",
+        "SURFACE": "470 m2",
+        "NB_OUVRIERS": "équipe de 5"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "Nous proposons chauffage 230m2, matériau plâtre, avec isolation thermique",
+      "entities": {
+        "TYPE_TRAVAIL": "Chauffage",
+        "MATERIAU": "Plâtre",
+        "SURFACE": "230m2",
+        "ACTIVITE_SPECIALE": "Isolation Thermique"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "plomberie 350m2 fibre de verre, équipe de 6 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Plomberie",
+        "MATERIAU": "Fibre De Verre",
+        "SURFACE": "350m2",
+        "NB_OUVRIERS": "6 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "charpente : 450m² en béton poli, coût estimé 90000€",
+      "entities": {
+        "TYPE_TRAVAIL": "Charpente",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "450m²",
+        "BUDGET": "90000€"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "toiture 380 m2, mise aux normes",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "SURFACE": "380 m2",
+        "ACTIVITE_SPECIALE": "Mise Aux Normes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "excavation 240 m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Excavation",
+        "SURFACE": "240 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "piscine 370 m2 béton, équipe de 4 personnes",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Béton",
+        "SURFACE": "370 m2",
+        "NB_OUVRIERS": "4 personnes"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "NB_OUVRIERS"
+      ]
+    },
+    {
+      "text": "maçonnerie 290m² tôle, sécurité incendie, budget 95000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Maçonnerie",
+        "MATERIAU": "Tôle",
+        "SURFACE": "290m²",
+        "ACTIVITE_SPECIALE": "Sécurité Incendie",
+        "BUDGET": "95000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    },
+    {
+      "text": "toiture 170 m2, aération",
+      "entities": {
+        "TYPE_TRAVAIL": "Toiture",
+        "SURFACE": "170 m2",
+        "ACTIVITE_SPECIALE": "Aération"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "carrelage 50 m2 béton poli",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "MATERIAU": "Béton Poli",
+        "SURFACE": "50 m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "fibre de verre pour piscine (90m²), chauffage requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Fibre De Verre",
+        "SURFACE": "90m²",
+        "ACTIVITE_SPECIALE": "Chauffage"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "cloison 220m2",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "SURFACE": "220m2"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "gypse pour piscine (320m²), étanchéité requise",
+      "entities": {
+        "TYPE_TRAVAIL": "Piscine",
+        "MATERIAU": "Gypse",
+        "SURFACE": "320m²",
+        "ACTIVITE_SPECIALE": "Étanchéité"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE"
+      ]
+    },
+    {
+      "text": "cloison 170m² plâtre",
+      "entities": {
+        "TYPE_TRAVAIL": "Cloison",
+        "MATERIAU": "Plâtre",
+        "SURFACE": "170m²"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE"
+      ]
+    },
+    {
+      "text": "carrelage 310m2 zinc, ventilation, budget 45000 euros",
+      "entities": {
+        "TYPE_TRAVAIL": "Carrelage",
+        "MATERIAU": "Zinc",
+        "SURFACE": "310m2",
+        "ACTIVITE_SPECIALE": "Ventilation",
+        "BUDGET": "45000 euros"
+      },
+      "tags": [
+        "TYPE_TRAVAIL",
+        "MATERIAU",
+        "SURFACE",
+        "ACTIVITE_SPECIALE",
+        "BUDGET"
+      ]
+    }
+  ],
+  "format": "NER",
+  "info": "Prêt pour fine-tuning BERT avec HuggingFace"
+}
