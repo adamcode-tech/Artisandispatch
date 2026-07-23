@@ -1,0 +1,46 @@
+# =============================================================================
+#   WORKFLOW 1 : CI — Tests automatiques du modèle
+#
+#   Le robot lance ce workflow AUTOMATIQUEMENT à chaque push/pull request
+#   qui touche le dossier ML. Si un test échoue, GitHub affiche une croix
+#   rouge ❌ et t'empêche de merger du code cassé.
+# =============================================================================
+
+name: ML CI - Tests
+
+# QUAND le robot se réveille (les "déclencheurs")
+on:
+  push:
+    branches: [bert-finetuning, main]
+    paths:
+      - 'entrainement machine learning/**'   # seulement si le ML change
+  pull_request:
+    paths:
+      - 'entrainement machine learning/**'
+
+# CE QUE le robot fait
+jobs:
+  tests:
+    runs-on: ubuntu-latest                     # une machine Linux gratuite
+    defaults:
+      run:
+        working-directory: 'entrainement machine learning'
+
+    steps:
+      # 1. Récupérer le code du repo
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      # 2. Installer Python
+      - name: Installer Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # 3. Installer les librairies nécessaires
+      - name: Installer les dépendances
+        run: pip install scikit-learn pandas numpy pytest
+
+      # 4. Lancer les tests
+      - name: Lancer les tests
+        run: pytest tests/ -v

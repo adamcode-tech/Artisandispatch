@@ -1,0 +1,68 @@
+# =============================================================================
+#   WORKFLOW 2 : Réentraînement + Déploiement automatiques
+#
+#   C'est LA réponse à ta question : "comment il se réentraîne et redéploie
+#   sans mon aide ?"
+#
+#   Le robot lance ce workflow sur un DÉCLENCHEUR :
+#     - soit tu cliques un bouton (workflow_dispatch)
+#     - soit automatiquement chaque lundi à 3h du matin (schedule)
+#
+#   Étapes : réentraîne → vérifie que c'est toujours bon → sauvegarde le modèle
+# =============================================================================
+
+name: ML Retrain & Deploy
+
+on:
+  workflow_dispatch:          # ← un BOUTON manuel dans l'onglet Actions de GitHub
+  schedule:
+    - cron: '0 3 * * 1'       # ← AUTOMATIQUE : tous les lundis à 3h00 (UTC)
+
+jobs:
+  retrain:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 'entrainement machine learning'
+
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Installer les dépendances
+        run: pip install scikit-learn pandas numpy mlflow pytest
+
+      # 1️⃣ D'ABORD : vérifier que le code passe les tests
+      #    (on ne réentraîne JAMAIS sur du code cassé)
+      - name: Vérifier les tests
+        run: pytest tests/ -v
+
+      # 2️⃣ ENSUITE : réentraîner le modèle
+      - name: Réentraîner le modèle
+        run: python 14_MLflow_Tracking.py
+
+      # 3️⃣ SAUVEGARDER le modèle entraîné (téléchargeable depuis GitHub)
+      #    C'est le "livrable" du réentraînement.
+      - name: Archiver le modèle et les métriques
+        uses: actions/upload-artifact@v4
+        with:
+          name: modele-reentraine
+          path: |
+            entrainement machine learning/mlflow.db
+            entrainement machine learning/mlruns
+
+      # 4️⃣ (DÉPLOIEMENT) — étape à activer quand tu auras une cible d'hébergement.
+      #    Ici on construirait l'image Docker de l'API (projet 13) et on la
+      #    pousserait vers un registre / un serveur. Exemple commenté :
+      #
+      # - name: Construire et déployer l'API
+      #   run: |
+      #     docker build -f api_btp_ner/Dockerfile -t mon-api:latest .
+      #     # docker push ... (nécessite des identifiants secrets)
+      - name: Message de fin
+        run: echo "✅ Réentraînement terminé. Modèle archivé dans les artifacts."
